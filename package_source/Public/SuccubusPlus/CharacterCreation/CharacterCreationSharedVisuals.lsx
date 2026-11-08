@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<save>
+    <version major="4" minor="7" revision="1" build="3" />
+    <region id="CharacterCreationSharedVisuals">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="Wings" />
+                    <attribute id="UUID" type="guid" value="35f1bf5b-371d-5d7a-8759-e23ccb900de7" />
+                    <attribute id="VisualResource" type="guid" value="83cb03fa-80cf-5a74-bac7-d577c34043ea" />
+                </node>
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="Wings" />
+                    <attribute id="UUID" type="guid" value="b84ce2bf-3e9e-5d5a-a417-c728fb8c123b" />
+                    <attribute id="VisualResource" type="guid" value="83cb03fa-80cf-5a74-bac7-d577c34043ea" />
+                </node>
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="Wings" />
+                    <attribute id="UUID" type="guid" value="5ec177bc-d33e-5483-ba16-23a804a1cdab" />
+                    <attribute id="VisualResource" type="guid" value="83cb03fa-80cf-5a74-bac7-d577c34043ea" />
+                </node>
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="Wings" />
+                    <attribute id="UUID" type="guid" value="b9741021-b3b0-57f9-9d12-fd011b09157b" />
+                    <attribute id="VisualResource" type="guid" value="83cb03fa-80cf-5a74-bac7-d577c34043ea" />
+                </node>
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="Wings" />
+                    <attribute id="UUID" type="guid" value="07b85bd2-f3f8-50af-82ce-cdda88be4d6b" />
+                    <attribute id="VisualResource" type="guid" value="83cb03fa-80cf-5a74-bac7-d577c34043ea" />
+                </node>
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="Wings" />
+                    <attribute id="UUID" type="guid" value="52568fd9-c4a5-58a7-90fa-1b30d00cd659" />
+                    <attribute id="VisualResource" type="guid" value="83cb03fa-80cf-5a74-bac7-d577c34043ea" />
+                </node>
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1" />
+                    <attribute id="SlotName" type="FixedString" value="Wings" />
+                    <attribute id="UUID" type="guid" value="c9093e5f-d478-555d-b94f-73b01303c361" />
+                    <attribute id="VisualResource" type="guid" value="83cb03fa-80cf-5a74-bac7-d577c34043ea" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

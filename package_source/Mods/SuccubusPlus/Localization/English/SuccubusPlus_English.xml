@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<contentList>
+  <content contentuid="hb9b1e81cg1f8cg461bg814bg13202304c2aa" version="1">Succubus</content>
+  <content contentuid="h0cf5dd9cg6442g4f85g8429g8ca18c6bda4b" version="1">Nightmare</content>
+  <content contentuid="h18eff818gf583g4237gb936ge44cc1030783" version="1">Spider Queen</content>
+  <content contentuid="hd63ef83dg7384g4a21g9d6bgf174dcacd3f5" version="1">The succubus is a low-level demon that enjoys indulging in pleasure and consuming essence. They manipulate the emotions of intelligent beings to satisfy their endless desires. Fanatics have been known to worship the succubus in hopes of attaining their power, either as a gift or by becoming one themselves. Due to their bottomless hunger and ability to manipulate, a succubus can be a deadly enemy or a valuable ally.&lt;br&gt;&lt;br&gt;Charisma powers your class abilities. Unique abilities cost Discipline; Wiles cost Charms. Ordinary cantrips are free. Bring enemies to Climax by building Desire, then extract their life with a kiss to restore Discipline.&lt;br&gt;&lt;br&gt;At zero Discipline, you lose composure: -2 Armour Class and disadvantage on saving throws against being Charmed or Frightened. The effect ends as soon as you recover at least 1 Discipline. You can still act and use recovery abilities.</content>
+  <content contentuid="hbbb51453gb30bg435ega8caga77cb1f92bba" version="1">The archetypal succubus heard of in folktales.  These succubi satisfy their desires through spiritual manipulation. Victims are lured into a tug-of-war between love and hate while their essence is slowly consumed.</content>
+  <content contentuid="h23070136g31b0g4c39gabdfg30a9baf81450" version="1">The Spider Queen is thought to be a mutation of the fiendish variant of succubi, though her origins are unconfirmed. Whether through Lolth's gift or by other means, these beings possess extraordinary talent with manipulating the soul, and use their spiritual silk to bolster allies, all so that they may more easily feed on the flies they trap in their webs.</content>
+  <content contentuid="hd7c307b2g8ff3g4f77ga7e0g7d70e65fd8f4" version="1">The Way of Charm</content>
+  <content contentuid="hb61170d7g28e3g4a77g843bgbe46c2df0c37" version="1">Grants advantage in Perception, Deception, and Persuasion. Charisma bonus is doubled.</content>
+  <content contentuid="h05853afbg9750g4bd6g93f0g4e0fc7e63031" version="1">Discipline</content>
+  <content contentuid="hee219fd7g9cd5g4686gbeb9g826bfa1f0da8" version="1">Discipline is the willpower that restrains a succubus's insatiable hunger. It allows her to channel demonic power while keeping her own desires in check.</content>
+  <content contentuid="hb6bfc89dg94d2g4c1bgb0c1g092c49abb9be" version="1">Broken Will</content>
+  <content contentuid="h73e7e7e5g9484g4763g8367g4b30798d0c70" version="1">Your own hunger has overcome you. Unable to perform Actions for 2 turns.</content>
+  <content contentuid="h0bede7e7gff5dg47bag86c1gb4cfc43c8e06" version="1">Swoon</content>
+  <content contentuid="h37873401gd6a4g4625gbcc8gc155315e4bec" version="1">Your own hunger has overcome you. You suffer disadvantage on saving throws, and cannot Extract for the rest of the battle.</content>
+  <content contentuid="h45096b2agc3d6g4f17g9798gbcc39cec79ba" version="1">Desire</content>
+  <content contentuid="h6bd4124dg88beg4635g9e32ga0f9465e7a04" version="1">Influenced by power, surrounding enemies will gain Desire during battle. Once an enemy's Desire reaches their current health, you can extract their life force and deal damage.</content>
+  <content contentuid="h22243b62g8558g485fgb49agc6860d9f02a4" version="1">Influenced by your power, this creature's Desire is growing.</content>
+  <content contentuid="h3dbe1897gaccbg4209g936fg05cdb047b871" version="1">Climax</content>
+  <content contentuid="ha3a8e6bcg66d6g4be0g89e7g70dbd33b72fc" version="1">This creature has a high desire and is willing to sacrifice everything for you.</content>
+  <content contentuid="h769d493cgaebcg4c8egb402gdf3ffe61056c" version="1">Damage Record</content>
+  <content contentuid="hbcc4f31fg2bdeg4f27gad7cg9249fa664a10" version="1">Record damage taken</content>
+  <content contentuid="h7b1f6ff2g0786g4334gb86cg5513f108eb9d" version="1">Intoxicating Body I</content>
+  <content contentuid="h39a405a7g9a2eg401dg9557gf4edc0704618" version="1">The perfect body of the succubus leaves all attackers in a daze. When not wearing armor, your AC is increased to 12, plus your Charisma modifier.</content>
+  <content contentuid="ha9c4a52dg04f8g4e50g810bg9cc11922fd49" version="1">Intoxicating Body II</content>
+  <content contentuid="h730c8f2bg7dccg49f9gb093g6629e6a1d7dd" version="1">The perfect body of the succubus leaves all attackers in a daze. When not wearing armor, your AC is increased to 13, plus your Charisma modifier.</content>
+  <content contentuid="hf22f0e54gd144g4a59g9d76ga767a262bd7f" version="1">Intoxicating Body III</content>
+  <content contentuid="h9ade31e7gd9b3g4269g986dgae15c75654b3" version="1">The perfect body of the succubus leaves all attackers in a daze. When not wearing armor, your AC is increased to 15, plus your Charisma modifier.</content>
+  <content contentuid="hc7682136g9975g48d5g9d0eg977daa115c78" version="1">Touch of Desire</content>
+  <content contentuid="ha6597cd9g9322g4f89ga709g36bf877f7711" version="1">Arouse the enemy's desire, dealing [1] and increasing their Desire .Enemy's Desire increases by 3, plus 5% of their maximum HP per turn, for 3 turns.&lt;br&gt;&lt;br&gt;Discipline cost: 5. With Mind Melt: 3 Discipline.</content>
+  <content contentuid="h70313353g369dg4ea8ga18ag2e8fa0f7b6c9" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Increases Desire by 5% of maximum HP on successful saving throw.</content>
+  <content contentuid="h0295d69fg70f2g44b1gb399gdc2d444b0d16" version="1">Enemy's Desire increases by 3, plus 5% of their maximum HP per turn.</content>
+  <content contentuid="h647222fbg9a14g4fdeg924ag7294cd6fcbed" version="1">Hormonal Storm</content>
+  <content contentuid="h0eb2d0c2g7283g466dgabfbg1b945265534f" version="1">After entering the battle, all enemies are influenced by your power, increasing their Desire by 2, plus 3% of their maximum HP per turn.</content>
+  <content contentuid="h3406f5cagdd67g4be8g8642g536789db0f93" version="1">Desire increases by 2, plus 3% of maximum HP per turn.</content>
+  <content contentuid="h3734e3abg0d36g43afgb27ag72280cc8c766" version="1">Blissful Kiss</content>
+  <content contentuid="hed3acab8gaac6g4e55gaa52g7951b845c117" version="1">Teleport to an enemy in Climax and extract its life. Protected bosses and legendary creatures take 3d6 + your Charisma modifier Psychic damage instead; their Desire and Climax are cleared. Restore 2d6 + your Charisma modifier hit points and 20 Discipline (35 with the third stage of Mind Melt).&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h1ab85e28gf539g4d68g88b0g8f479ed51eda" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Can only be used against enemies with Climax.</content>
+  <content contentuid="h264854e5g1192g42a8gadd8gb87e195e57f7" version="1">Extraction instantly kills ordinary enemies. Protected bosses and legendary creatures take damage instead.</content>
+  <content contentuid="h1e842c93g2f28g474bg995dgb7fc8e35451b" version="1">Extraction instantly kills ordinary enemies. Protected bosses and legendary creatures take damage instead.</content>
+  <content contentuid="h19b38bfdgc230g4cc5ga620g0314491551af" version="1">Sadistic Contract</content>
+  <content contentuid="hfacceb87g73a4g46eagaabcgbbc6565e9d86" version="1">Create a twisted bond with the target. When you attack or are attacked by the target, the target's Desire increases by 6, plus 8% of their maximum HP. You will lose Discipline. Lose 10 Discipline when attacking, reduced by your Charisma Modifier. Lose 5 Discipline when attacked.&lt;br&gt;&lt;br&gt;Discipline cost: 6. With Mind Melt: 4 Discipline.</content>
+  <content contentuid="h15cdde68gc66fg492agb837g985f66ffb48f" version="1">Increases Desire by 6, plus 8% of maximum HP when an enemy attacks you.</content>
+  <content contentuid="h2202d5d8g8f3bg42d1ga6f0g2aeee913293e" version="1">Aflame with Desire</content>
+  <content contentuid="h801e81abg09c1g4733g8195g16e1d5b452c2" version="1">Resonate with the desires of the target enemy and obtain Flame stacks equaling the target enemy's Desire. Lasts for 4 turns. You must extract the life of 3 enemies, including the target during this period, or you will lose 40 Discipline.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h2ea9017cga6cbg4b38g8f76g2d0a0411faca" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Each Flame stack increases melee weapon damage and damage reduction. Attack rolls earn a 1d10 bonus.</content>
+  <content contentuid="hfa51cbd5g8db9g4b67g9bdeg032dad9693d3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Extract target enemy to restore 10 additional Discipline, and obtain 1 additional Actionpoint. Lasts for 5 turns.</content>
+  <content contentuid="h377fe6b3g7503g4316g8ef5g592c0048a22a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Flame stacks will be removed 1 turn after the target enemy dies.</content>
+  <content contentuid="hb5635cb3ga481g4072g8c91gc41e1c66d4f9" version="1">Gain great power in a short period of time.</content>
+  <content contentuid="hb274989cgb516g4db4ga452g119a5b01a771" version="1">Extracted Flames</content>
+  <content contentuid="hbe0fd199ga5fag423fg8733g70035b783d3b" version="1">Gain a additional Actionpoint.</content>
+  <content contentuid="hde0fbf92g46a3g4566g8ca7gb8a7bd4954fb" version="1">You must extract enough enemies to quell the Flame.</content>
+  <content contentuid="h4782a258gf29cg4965gb40fg341a67d9a33c" version="1">You must quell the Flame in the remaining time, or you will lose 45 Discipline</content>
+  <content contentuid="hb07ee962ge0abg46a1ga985g635be7b42870" version="1">Touch of Bliss</content>
+  <content contentuid="hbbc3c029g11fdg43fdg8f61g4ec8af7d869b" version="1">This enemy has already been attacked by the Touch of Desire. Unable to trigger the effect of Bliss Domination LV1 again.</content>
+  <content contentuid="h0e0ef71fg1818g4898g912cgf6260477d9ab" version="1">Engrave Charm Pattern</content>
+  <content contentuid="h18cc458fg3c36g438ag8303gabb8e48b9506" version="1">Choose to engrave a Charm Pattern to strengthen yourself. Only one Charm Pattern can be engraved per battle.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="ha5566fcfgf2bcg4f86gbcf9g2e26d0625bab" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;After a certain number of rounds in combat, the Charm Pattern will increase its level automatically.</content>
+  <content contentuid="hbb634167g1051g49cag8200g850e8f533dc6" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Extracting life from enemies has a chance to increase the level of the applied Charm Pattern.</content>
+  <content contentuid="h86a33018gc7efg4d39gb969gb8f754f48829" version="1">Charm Pattern: Blissful Domination</content>
+  <content contentuid="hefe51540g306ag4d74gb80eg0e1a43b34a4d" version="1">Accelerate the rate at which the enemy builds Desire and prolong the negative effects exerted.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h4a1f4e9eg86e3g4256g9fa7gaf65d7aa71f1" version="1">Charm Pattern: Statistics</content>
+  <content contentuid="hf39dc190g46d3g4873gb39fg7891e93f8f17" version="1">Every time you Extract an enemy,you gain damage and increased movement speed&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="ha4b57d0bgcee4g46bfg9e18g9e110c5132c8" version="1">Charm Pattern: Mental Melting</content>
+  <content contentuid="ha9a9f546g61edg4463g9fc9gf4cee3da371d" version="1">Reduce the rate at which you lose Discipline and deal additional psychic damage when attacking.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h6820bf3fgfbcbg4f06g9d37g6ffa30917bb9" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV1: When the first Touch of Desire is applied to an enemy, their Desire is increased by 8% of their maximum HP. Each enemy can only be effected once. Extends the duration of Touch of Desire by 1 turn.</content>
+  <content contentuid="h65ae457bg75e9g45e4g8d99gec290f30b9f4" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV2: The effect of Hormonal Storm is increased by 30%, and your attack rolls deal an additional 2d6 damage.</content>
+  <content contentuid="h8f96eb00g58d3g418dga1e3ge90b5cafc9a2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV3: The rate of Desire accumulation through Sadistic Contract is increased by 30%.</content>
+  <content contentuid="h5329d304g1461g40c6ga514ga623be8c8dea" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV4: Melee weapon attacks generate Desire equivalent to 50% of damage done, and extend the duration of Aflame with Desire by 1 turn.</content>
+  <content contentuid="h522ffd1bg1a59g465bgb003g345028a978b0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV1: For every enemy affected by the Touch of Desire,you gain 3 bonus damage.</content>
+  <content contentuid="h15439c8ag93aeg4e79g8c2ag80606753e905" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV2: For every enemy around the you who is in Climax, you gain 30% movement speed.</content>
+  <content contentuid="h59f82ab0gb69bg4697gbdd1g1c1a93a6a6ef" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV3: Every time you are attacked, the attacker gains 1 Abuse Stamp stack, which transforms into 1 additional damage when you attack.</content>
+  <content contentuid="hd30fd791g0330g45fag8b1bg5800d31299cf" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV4: Every time you cause damage, the target gains 1 Maltreat Stamp stack, which transforms into 1 additional Desire when attacking.</content>
+  <content contentuid="h019e8859gf542g4c6aga65fg65005a3245b5" version="1">The first stage of Mind Melt reduces the Discipline cost of Desire Touch and the Sadistic Pact by 2. Other effects retain their normal costs.</content>
+  <content contentuid="h411346f7g7fe9g4c28gb4b2g9adcba1c03df" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV2: When dealing damage, an additional 2d6 psychic damage is added.</content>
+  <content contentuid="h88496ef8g1852g4a7dgbd17g1104b39951b8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV3: Restore 15 additional Discipline After successfully casting Blissful Kiss.</content>
+  <content contentuid="h6204ee40g2513g4addgafdcgd03d1fefe411" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;LV4: Waltz of Long Night no longer consumes Discipline, and there is a 33% chance when extracting life from enemies to receive an additional chance to cast Waltz of Long Night again.</content>
+  <content contentuid="h7eba0c84gf701g401cg8110ga6c8d7b9b068" version="1">Abuse Stamp</content>
+  <content contentuid="hb7b93861g9061g4450gaf98gdb049e267b0b" version="1">Convert stack to damage bonus on hit.</content>
+  <content contentuid="hccb10d25gd45ag4bfaga6dbgc241bab14b45" version="1">Maltreat Stamp</content>
+  <content contentuid="h06d7e06fgaa08g4226g98b3g17d30619756e" version="1">Convert stack to Discipline on hit hit.</content>
+  <content contentuid="hcbc5aa3bga091g4b63ga5a4g49f2b91a8c98" version="1">Waltz of Long Night</content>
+  <content contentuid="h56efc762g2bfdg4a0fg8010gc9d2f83f6915" version="1">Performing a magnificent dance, extract the life of all enemies who are in Climax around you. Surviving enemies increase their Desire by 5, plus 12% of their maximum HP.&lt;br&gt;&lt;br&gt;Discipline cost: 15.</content>
+  <content contentuid="h1d8715bcg67a8g42edg95fbgaa1ca7490b4d" version="1">Endless Thirst</content>
+  <content contentuid="h57e073a7gdd4cg4c8bg9cd2g256b59919415" version="1">Seduce your enemies. Every turn, if the enemy fails a Wisdom saving throw, their Desire increases by 5, plus 10% of their maximum HP. You lose 8 Discipline.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h49b90a88g08c2g4d01gba36gec72d2e0efcb" version="1">Hate and Pleasure</content>
+  <content contentuid="hf5152435g0e09g416ag9114gfa0c26681597" version="1">A curtain of resentment unfolds on odd numbered turns and forces all effected enemies to attack you. When attacked, you regain 3 Discipline. A curtain of pleasure unfolds on even numbered rounds and drives all effected enemies mad, causing them to attack one another. You lose 11 Discipline.&lt;br&gt;&lt;br&gt;Discipline cost: 12.</content>
+  <content contentuid="h0fa967ccg965cg4bacgb7efg3d1488b77ac7" version="1">Brilliant Engraving</content>
+  <content contentuid="h7b1e4bceg44f5g498eg83b6g83c5b7b0b0a4" version="1">Increase the level of a Charm Pattern by 1. 2 additional Discipline will be lost per round. This effect can be stacked.&lt;br&gt;&lt;br&gt;Discipline cost: 6.</content>
+  <content contentuid="h3720b9bbg2a60g4512gabafg791d9da78f9a" version="1">The rate at which you lose Discipline is increased by 5 Discipline per stack every round.</content>
+  <content contentuid="hba3d9d52gcd2ag45a1g8b67gee61d2724a15" version="1">Curtain of Resentment</content>
+  <content contentuid="hca278b55ga321g4f76g8a47gb91a732408c6" version="1">All affected enemies will be forced to attack you. When attacked, you regains 3 Discipline.</content>
+  <content contentuid="h4e1a4896g7bc7g4c82gbf90g2dde42c63bfb" version="1">Forced to attack the succubus.</content>
+  <content contentuid="h56fa1b67g217cg464dg9f4cgf2631ce329e5" version="1">Curtain of Pleasure</content>
+  <content contentuid="hc9f9d066g69e9g481dgb882g6645b2137790" version="1">All affected enemies fall into madness, succubus loses 15 Discipline.</content>
+  <content contentuid="h0c6c1067g97acg48bbg83a3g8370f3256187" version="1">Fall into madness and attack the nearest creature.</content>
+  <content contentuid="hb9336c47g1ab4g4c53ga295g0404d8589673" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;There is a 6% chance to interrupt the effect when attacked.</content>
+  <content contentuid="he60db914gb34fg4a43gbf66gb06a6429b661" version="1">End the Curtain</content>
+  <content contentuid="h6a3c5f1bg10b4g4e1agb943g259ffd55ba5b" version="1">Interrupt Hate but Pleasure&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h93ce8e10gf14fg4dd4g9a3dgbca8a9addbcd" version="1">Moral Decay I</content>
+  <content contentuid="ha147568cge579g4476g9326ga459fcbe0ee3" version="1">Increase maximum Discipline by 10.</content>
+  <content contentuid="h8a5cda6egc2c9g43e4g835dga6262f08b072" version="1">Moral Decay II</content>
+  <content contentuid="h4ca68be7gc70fg4380gbba0gf8cdf31ef0c4" version="1">Increase maximum Discipline by 11.</content>
+  <content contentuid="h260c1fc9g3c39g4bf8g8991gba84dbe4e0fa" version="1">Fast Engraving</content>
+  <content contentuid="h2019853cg3141g49eaga56eg1b3d7e88135e" version="1">The number of turns required to upgrade to the level of a Charm Pattern is reduced by 1.</content>
+  <content contentuid="he33dd56cg582cg4d54ga14fg7996c55d72e1" version="1">Pattern Breeding</content>
+  <content contentuid="hfeae0fbdg9318g49bcg997cgc2b5ba1b3d68" version="1">When dealing damage, there is a 24% chance to randomly obtain a LV1 Charm Pattern that you have not activated. Lasts 1 turn.</content>
+  <content contentuid="hc83b3ef8gfcf5g492cgb474geb1c36c47121" version="1">Disaster Stamp</content>
+  <content contentuid="h3105311fga953g4043g8b10g0af75873784b" version="1">Deal [1] and apply a Disaster Stamp to an enemy. When this enemy is attacked, Disaster Stamp will ignite their desire and Convert 10% of the damage into Desire. Disaster Stamp can be stacked. 100% of damage dealt by Disaster Stamp converts to Desire.&lt;br&gt;&lt;br&gt;Discipline cost: 5.</content>
+  <content contentuid="h48491ca6g3928g49b5g81b8g612907b743f5" version="1">Convert 10% of damage into Desire, Each stack of Disaster Stamp converts an additional 10% of damage into Desire.</content>
+  <content contentuid="ha353f69dg7aa2g4ae7g9485g3c4b56c64073" version="1">Infatuated Aura</content>
+  <content contentuid="h916b131eg3b94g4baagbed4g1271fbf22b11" version="1">After entering the battle, you emit a stirring aura which reduces the Critical Hit threshold of teammates by 2. Increases AC level based on your Charisma modifier.</content>
+  <content contentuid="hbb83be5fg361cg47e8g8617g0b018506ffb9" version="1">reduces critical hit threshold by 2. Increases AC level based on your Charisma modifier.</content>
+  <content contentuid="hed82b420g1e23g4984g9517g46d2a0952a57" version="1">Spider's Kiss</content>
+  <content contentuid="h890fa30egba89g4d6bg8faagdbaf30182cad" version="1">Go to the extreme with enemies who are in Climax. Extract the target's Disaster Stamp and apply those stacks to another enemy on the same turn.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="he0e3d51eg14c8g4e5ag9b2bgcd19fd019fbc" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;You should know the consequences of having sex with a lady spider, right?</content>
+  <content contentuid="h5492d1e7g136fg45bdg908dg3ff47da6cd5a" version="1">Extracting Disaster</content>
+  <content contentuid="h39752d3fg968bg49caga254g39338af50b84" version="1">you can apply these stacks of Disaster Stamp to another enemy within this turn.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h0d76c1b6g727cg4856gb19fga74f1018402a" version="1">Desire Silk Link</content>
+  <content contentuid="h06c5ed97g96fcg4913g8c73g8406f942947b" version="1">Your relationship with your teammates is extraordinary, and that allows you to use magic silk to connect them and make them stronger in battle. If the connected teammate dies, you will lose 20 Discipline.&lt;br&gt;&lt;br&gt;Discipline cost: 10. Strong Thread makes this free.</content>
+  <content contentuid="h84a8b37cgf2d5g478bg95dbgb86396ad2886" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;The connected teammates ignore the enemy's resistance to psychic magic.</content>
+  <content contentuid="ha06de18fg9c17g4bccga5d9g68b682b3891c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;The way teammates are reinforced depends on the skills they cast.</content>
+  <content contentuid="h9e8511ebgdebcg4d3cg81adg8a179ed5bea4" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Consume 10 Discipline for each teammate linked.</content>
+  <content contentuid="h9d7be976gf9c5g4c06g9ef9gbd9950917dbe" version="1">Under the control of our own succubus, we are even more powerful now.</content>
+  <content contentuid="hd9531b1fg5042g454cgb736g9737c73cce74" version="1">Annihilation Slash</content>
+  <content contentuid="h83a85d53g8f11g40d1ga2c4g8ce71db81d77" version="1">Enhanced by the silk link, deal [1]. 25% of the total damage dealt with Annihilation Slash in the previous turn will be added to it this turn.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="hd3ccd8bfg88e4g4649g9f0ag238ead85e60e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;This spell is unlocked after casting Smite Divine or Smite Wrathful.</content>
+  <content contentuid="h352611bfg5f92g4cd0gbb7egd4829ea24e4d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Cannot be used after movement.</content>
+  <content contentuid="h204a93e3ge63cg40b4gb320ge806dc468239" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Enhanced by spiritual Tremors: Annihilation Slash is guaranteed to critical hit. Twice the damage done is converted into Desire and applied to the target.</content>
+  <content contentuid="h97cbfb94gee1fg41d3g859cg84dab43ceacb" version="1">Sin Impact</content>
+  <content contentuid="h42c0aa26g231ag434egaf3dg116fe82cdad1" version="1">Enhanced by the silk link, deal [1]. The total damage of all released EldritchBlast this round will be added to the damage dealt by Sin Impact.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="hbf131e06gac56g4c74g8e79gdd32b42ed861" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;This spell is unlocked after casting EldritchBlast.</content>
+  <content contentuid="h2b640ccbg2a39g4ebbgad01g86ba3e93f3d3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Sin Impact will not miss, but it will not deal critical damage.</content>
+  <content contentuid="h92c55511gefffg49aega6fbge714ea2e889c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Enhanced by spiritual Tremors: Casting Sin Impact allows the next EldritchBlast to target an additional 5 creatures. The Damage of Sin Impact will be converted into Desire and applied it to the target.</content>
+  <content contentuid="h942d37b5g0e14g49bcgb30eg2e8d5773ff9f" version="1">HeartSeek</content>
+  <content contentuid="hdb0b0371gbaffg4975ga257gb6034000b109" version="1">Enhanced by the silk link, teleport to the enemy's side and deal [1]. One enemy will die directly after being attacked by HeartSeek 3 times.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h39030817gfa9cg4174gb817g04e973c92b6b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;This spell is unlocked after casting any SneakAttack.</content>
+  <content contentuid="hf7c6e345gd156g44fegafb8g7dc904dcce02" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Enhanced by spiritual Tremors: HeartSeek has a 15% chance to make  an enemy Climax. Grants advantage on next attack.</content>
+  <content contentuid="h1da3ced7gc7c2g4968g8c2fgb046368a405e" version="1">Magic Tide Surge</content>
+  <content contentuid="hb6aebe2eg802ag4babgbda8g7f6449f3544c" version="1">Enhanced by the silk link, ignite all surge marks.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h9ab16174g601ag4e66gbf6ege2d006f7e3a5" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;There is a 33% chance that the Magic Missile will apply a Surge Mark to the enemy. The Surge Mark will store all spell damage received by the target for 2 rounds. When the surge mark is ignited, the stored damage will be inflicted.</content>
+  <content contentuid="h23f243f9g1265g4e04gaa7cgd6c94334d070" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Enhanced by spiritual Tremors: The Surge Mark will be refreshed for 2 turns after igniting. The damage caused will be converted into Desire and applied to the enemy</content>
+  <content contentuid="h2e8b3feeg6c73g4e48gaaf3g0dac62a10179" version="1">Vicious Wish</content>
+  <content contentuid="hdf3928d5ge61cg4e62g81dcgcf67fc9e45d9" version="1">Enhanced by the silk link, deal [1]. In this battle, all of your ranged attack damage will be stored when dealing critical hits ,and to damage inflicted by Vicious Wish.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h7a7843e0gecc8g40e6ga53bg0aa856a6297a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;This spell is unlocked after casting any BladeFlourish.</content>
+  <content contentuid="hcaa22f32gac1dg4eafgbec9gb170c9dd49da" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Vicious Wish is cannot miss, but is unable to deal critical damage.</content>
+  <content contentuid="h451b4bcbge78dg4a7fgae49gfdc927a02d41" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Enhanced by spiritual Tremors: Vicious Wish garantees a critical hit on the next ranged attack.</content>
+  <content contentuid="h5275517bgd4c0g4664ga765gd76534d5c7f0" version="1">Mad With Desire</content>
+  <content contentuid="h12fda0cfg76bfg44afg9632g853969aa6494" version="1">Enhanced by the silk link, perform a sweeping attack to deal double your weapon damage to enemies within range. 10% of the damage you cause will be converted into Desire and applied on yourself. Once your are in Climax, you will become unstoppable.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h06378d66gefb6g4fbbg8330gf9d6954eb8ec" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;This spell is unlocked after casting Rage Frenzy.</content>
+  <content contentuid="h64c76f7bg4396g4b6ag929cgceb4d6637397" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;After exiting the frenzy, all Desire will be cleared.</content>
+  <content contentuid="h2ebc4000g4275g447cg9be1g59266de148ca" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Enhanced by spiritual Tremors: Each time you cast Mad With Desire, your weapon damage increases by 3. This effect can be stacked. This effect disappears after exiting the Frenzy.</content>
+  <content contentuid="h25b9a5fcg5fd5g4bfeg8552gae057c25227a" version="1">Your desires have completely erupted. You are now unstoppable.</content>
+  <content contentuid="h5d7ba349g0471g4073g850ag59cceaa7da85" version="1">Rampaging Slash</content>
+  <content contentuid="hae98b0fag5630g472eg87c0gc6a66730a441" version="1">Enhanced by the silk link, deal [1]. You can repeatedly cast Rampage Slash within one turn until your attack misses.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="hfd75fe54gd7d0g4354g9fb1g11505c858510" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;This spell is unlocked after casting ActionSurge.</content>
+  <content contentuid="he16032efg9ff3g453cga00agd1df76a2c454" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;There is a 14% chance to restore a Superiority Dice after casting the Rampaging Slash.</content>
+  <content contentuid="h1e71b373g17cfg42cagb1a4gfce104ff6a4d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Enhanced by spiritual Tremors: 33% of the damage caused by the Rampaging Slash is applied to your next weapon attack. Only applies for this turn.</content>
+  <content contentuid="h8db66617gf369g4bfdg918cg9a1db15a9339" version="1">Transfigured Night</content>
+  <content contentuid="h8843c73eg2b6ag423fga27cg9ff085e4c7ac" version="1">Your power is completely out of control, forcibly draining all teammates connected to you. Connected teammates are unable to move and cannot be attacked for 3 rounds. Paralyzed due to extreme satisfaction. After 3 rounds, you will transform into a Spider Queen. All Discipline will be restored on transformation.&lt;br&gt;&lt;br&gt;Discipline cost: 5.</content>
+  <content contentuid="he095bd65g7607g4b9dg9343g073e1cb35176" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Can only be cast when Discipline is below 30.</content>
+  <content contentuid="h43ada33bg1cbag46dagbeb7g7e3d70336e2c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;The more teammates are drained,the stronger the Spider Queen becomes.</content>
+  <content contentuid="hc1b26869g1ba5g425fg8e0eg0d4d6629b54c" version="1">drained by the succubus. Unable to move, and cannot be attacked.</content>
+  <content contentuid="h4ee40660g74b3g440egb106g9ab98d5fc5e0" version="1">Due to losing control of  your power and draining your teammates, you indulge in immense joy and are unable perform actions.</content>
+  <content contentuid="hd51f6185ge6d1g498aga05eg84a486be8e1d" version="1">Immersed in extreme excitement and revealing its true form.</content>
+  <content contentuid="hc1b8d035g6da7g48b1g88bag8d83127962a9" version="1">Furious Bite</content>
+  <content contentuid="h48f584a3g79b4g41f1gae5eg7322ecd330fe" version="1">A swift bite dealing [1],Cause additional [2] to the poisoned target.&lt;br&gt;&lt;br&gt;Discipline cost: 3.</content>
+  <content contentuid="hd1031132g3c9dg4cc2gb109gdec7be305726" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;When attacking, spash surrounding enemies with venom and rapidly increase their Desire.</content>
+  <content contentuid="h019f6a24g8568g41a8g9f58g75b53c790a9b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Attacking will directly extract enemies in Climax.</content>
+  <content contentuid="hd01ea17bgcd22g41cdgbb42gb4f3e31817cb" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Each drained teammate increases your damage by 10.</content>
+  <content contentuid="h9b2c7233g77a7g4adcga64dg42a2f1faaf90" version="1">Blissful Neurotoxin</content>
+  <content contentuid="hd1da5467g474bg4a11g90ddga0485fd9a2ff" version="1">Increase your Desire by 5% of your maximum HP per round.</content>
+  <content contentuid="hdbfbad56g5033g48a1ga689gfe21361090e0" version="1">Spiritual Tremors</content>
+  <content contentuid="h5e89579fga9d9g49a3ga8f7gd393d05d3a51" version="1">Manipulate the silk to enhance the spells of one linked teammate. Lasts for 2 turns. After casting Spiritual Tremors, you can continue casting it with an additional 2 Discipline instead of the BonusActionPoint in current round.&lt;br&gt;&lt;br&gt;Discipline cost: 2.</content>
+  <content contentuid="hd03c738egae85g4c0cg9e88g1d01f789f8ae" version="1">Under the seduction of the succubus, your power has been further strengthened.</content>
+  <content contentuid="h7af31148g03c2g4558gae69gcb31210b80d4" version="1">Endless Disaster</content>
+  <content contentuid="h24b77fe6gcc93g4cfdg85ecgcfb3fd728945" version="1">Disaster Stamp stacks automatically increase by 1 per turn.</content>
+  <content contentuid="hc774ac89g24d3g42cdga854g757cabcadfcf" version="1">Touch of a Losing Heart</content>
+  <content contentuid="hf32eddbeg0faeg42f4g9370g856d11eb1463" version="1">Connect an enemy to make him unable to use actions. At the beginning of each turn,the enemy must pass a Constitution saving throw or take damage equaling 10% of its maximum health. You lose 15 AC while concentrating..&lt;br&gt;&lt;br&gt;Discipline cost: 12.</content>
+  <content contentuid="h32e2d6f3g926ag4bc1g813fgadeb4c03264b" version="1">Indulge in Desires</content>
+  <content contentuid="h7c3a0b13g917ag4fd1g8ae9gc17a52c0d11c" version="1">You spread your aura throughout the entire battlefield for 2 rounds. At the beginning of each turn, enemies must pass a Wisdom saving throw or temporarily become your servants.&lt;br&gt;&lt;br&gt;Discipline cost: 15.</content>
+  <content contentuid="h0e6e7a35g39afg4da1g840dg2fa9a537ab1d" version="1">Demonic Neurotoxin</content>
+  <content contentuid="h096cd794g63f5g423cg9e6ag8c0be7420b02" version="1">Restores 25 Discipline, but loses an additional 3 Discipline per turn. This effect can be stacked.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h3a51b986g5296g45cbga33egf7a960dd78d3" version="1">Mesmerizing Whisper</content>
+  <content contentuid="h9bd6d999gbeedg4b8cga49eg23d3e18d7f0f" version="1">Spiritual Tremor provides an additional Action point for all linked teammates. Lasts for 2 rounds.</content>
+  <content contentuid="he40d7328gc914g4bf4g9be3ga56caa1176e3" version="1">Engrave Colorful Charm Pattern</content>
+  <content contentuid="h6ab7d65cgda9bg49a0gac39g9844f3845057" version="1">In battle, choose to engrave a type of Charm Pattern to provide yourself with buffs. Only one Charm Pattern can be engraved per battle.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h98f308b3gbfd7g4397g80ecg893abf643205" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;The Spider Queen is skilled at engraving special Charms,constantly changing colors and producing different effects each round.</content>
+  <content contentuid="ha60a9dd8gc638g42d1gb6a3g06605e1d29bf" version="1">Engrave Charm Pattern: Inferiority and Corruption</content>
+  <content contentuid="haef7b97cgbd29g4a7egbd77gf58c8d45339c" version="1">Strengthen the defense of linked teammates.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h62ee69c3g43ddg4e24g9552g43df6ae4264d" version="1">Engrave Charm Pattern:Path of Heaven</content>
+  <content contentuid="h1c9404fag1cd6g411eg8548g490b2767d908" version="1">Strengthen the damage of linked teammates, so that the enemy's Desire increases faster when attacked.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h6664c6d3gc76fg469eg8b49gee0dec00db42" version="1">Engrave Charm Pattern: Wild Desire&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="hf6a9ca67g2309g4827g8f44gfb5706d97d28" version="1">Consume the health of linked teammates to strengthen yourself.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h26932d99gf436g4f72g83bfg32644bbd8046" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;I: Linked teammates increase AC by 3 each.</content>
+  <content contentuid="hd9280fc9g4b91g4148g8bb5g17ee220184bc" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;II: Attacks against linked teammates have disadvantage.</content>
+  <content contentuid="h84cdb8eag4735g4919gbcb2g227dc4ff1a10" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;III: When a linked teammate is attacked, the damage will be converted into Desire and applied to the attacker.</content>
+  <content contentuid="h63ed7dc7g8723g4f27gb703ge180b223b6e7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;IV: The damage taken by linked teammates is reduced by 50%.</content>
+  <content contentuid="h58173de1g8962g44b9gb53dge812997920fc" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;I: The linked teammate's critical threshold is reduced by 2.</content>
+  <content contentuid="h43e84528g414dg4448g88d5g0757274e887d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;II: When a linked teammate causes damage,there is a 25% chance to increase Disaster Stamp stacks by 1.</content>
+  <content contentuid="ha25442eag182bg4f9bg9e34g431e1487b3d2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;III: When a linked teammate attacks, they deal additional damage equal to 10% of the target's Desire. This effect can only be triggered once per turn by each teammate.</content>
+  <content contentuid="hbe412ac1g5f53g4611g8ca3gd71b2e2d22d0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;IV: When a linked teammate's spell deals critical damage, their next spell will not consume a spell slot.</content>
+  <content contentuid="h392806b3g17a3g4c0cgaa91ge45475654ff1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;I: Each linked teammate consumes 1 HP per turn. When dealing damage, they restore 2 Discipline.</content>
+  <content contentuid="he62fb06cg9943g4043gaa33ga49e9d85e03e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;II: Each linked teammate consumes 2 HP per turn. When dealing damage, they heal you for 8 health.</content>
+  <content contentuid="h22633c5egeef4g467egbbb5g4870fe60fa1c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;III: Each linked teammate consumes 3 HP per turn. When damaged, all enemies gain 3% of their maximum HP as Desire..</content>
+  <content contentuid="hbc744595g02bdg4254ga251g7c1909196f87" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;IV: Each linked teammate consumes 4 HP per turn. When dealing damage, you will teleport to the enemy.</content>
+  <content contentuid="hdc187e29gdc4eg4eefg8b15g070920935991" version="1">Path of Heaven</content>
+  <content contentuid="h91e9cc4fg7956g4d33g8448gcf291bd116e3" version="1">The next spell can be cast without consuming a spell slot.</content>
+  <content contentuid="hf10f5285g956bg483fg90f0g1168539afef7" version="1">Damage Record</content>
+  <content contentuid="hdd115007g3aebg46b5gb6b5g414b9727f3c9" version="1">25% of total damage in the previous round.</content>
+  <content contentuid="h5f247be4g153fg4df3gaa21g137c8adc1eca" version="1">EldritchBlast total damage in this round.</content>
+  <content contentuid="h127be1a8g76fag45afg8bdfg2503bec1825e" version="1">Total critical damage done in this battle.</content>
+  <content contentuid="h8337dfbcg55e1g479fg89cfg966a816b16ee" version="1">Surge Marks</content>
+  <content contentuid="hf37f858agc360g4859g815eg541a981a1be9" version="1">Total magic damage taken.</content>
+  <content contentuid="h4f3f874ag29c9g4eb0g953fgbc61d67508cf" version="1">33% of total damage done by Rampaging Slash.</content>
+  <content contentuid="h2c2e4a72g11f1g4879g83adgc7f15d834466" version="1">Moral Decay III</content>
+  <content contentuid="h203a82a1gb077g4e60gba53gb75d709a4a52" version="1">Increase maximum Discipline by 50.</content>
+  <content contentuid="h014f5ba7g8488g4749ga600g9a4b6bfec8d3" version="1">Waltz of Long Night: Encore</content>
+  <content contentuid="h590e8898g38f5g4571g8fc3ga1042a7a6ad8" version="1">Insatiable</content>
+  <content contentuid="hbe777814g3811g4169g89f7gdb78383daff2" version="1">Your maximum Discipline increases by 20.</content>
+  <content contentuid="h7e3c1a52g4d8bg4f06g9a1eg2b5c8d7f3e41" version="1">Drained</content>
+  <content contentuid="h9c2e7b14g5a3fg4e8dgb6c1g0f4a2d9e8c57" version="1">A succubus has drunk some of your vigour. -1 to Attack Rolls, Saving Throws, and most Ability Checks.</content>
+  <content contentuid="h6d588426g6d10g5a1dg8082g66c2b60aeed1" version="1">Whisper a true Infernal endearment in her ear, the kind only a succubus knows - pacts have come undone for less.</content>
+  <content contentuid="h0c0f5df9g977bg556aga023g8abe2ca9dfd1" version="1">Answer their charms with your own - you are the kind who casts them, not the kind who falls.</content>
+  <content contentuid="hc747883eg279dg54b3ga929ga32eca697607" version="1">Come to my side, Yurgir. A daughter of the Hells knows how to reward an ally.</content>
+  <content contentuid="h9a730b26g3e02g51adgbdbag6c2ce5902fbb" version="1">You and I both know the price of temptation. Lower yours - I never stay in debt.</content>
+  <content contentuid="ha2d94fa1g9482g5373gb948g6fb530dc74e8" version="1">Succubus</content>
+  <content contentuid="hd16a0c82g41a9g50a3gace1g3aefa9442ec3" version="1">Succubus class dialog options</content>
+  <content contentuid="h8eb38beega6a7g541fgac18g971937cd28f9" version="1">Your grove has thorns everywhere, Arron. Show me something soft for a change - a softer price, perhaps?</content>
+  <content contentuid="h2b4d676dg35b9g577egbb2bgb49634e4cbd9" version="1">You learned to tame infernal steel, Dammon. I wonder what else those clever hands could tame.</content>
+  <content contentuid="h7437701eg5b43g512fg94f9g17d4e2caabbf" version="1">Such a sweet old aunt. But I can smell the real you, love - and I like it. Let's make a personal deal.</content>
+  <content contentuid="h501cdd0dg55ceg5744g8c87gaacc068d8181" version="1">Scavenger's rights, eh? Then scavenge a little generosity for me, handsome.</content>
+  <content contentuid="hf31fcb78gd5dcg5f92gbb1cgffef149ff57f" version="1">Hush, big one. Let me be the sweetest thing you wake up to today.</content>
+  <content contentuid="h2da2a081g917dg5d4bg8870gd62475fd8d6b" version="1">A goblin who loves poetry? Now that's romantic. Recite me a better price.</content>
+  <content contentuid="h525600b2g432fg52acg8801gc43169bad140" version="1">Call me 'your greatness' once more, Grat, and then show me how great your discounts can be.</content>
+  <content contentuid="h6976dd9dgbe4bg5b37gb4cbg27b4220dd5da" version="1">You sell discretion, Roah. I'm selling something far more tempting. Shall we barter?</content>
+  <content contentuid="hcc584729gec9fg5311ga112g9adb06f7d660" version="1">They say devils pour poison in your ear and call it honey. I only brought the honey, Cyrel.</content>
+  <content contentuid="h4ba183bbgbfe9g592eg9a98gc0fed64e3dfc" version="1">'Price is the price', Brem? Everything has a price - and I know yours.</content>
+  <content contentuid="hb5bef544gf787g5c6dg96aag09093780bb55" version="1">A hunter with such patience. I wonder what it takes to make you lower your guard - and your prices.</content>
+  <content contentuid="ha73c3c3bg4c13g5fb0ga6e0gbb8ef5ddebbe" version="1">Grim work for such strong hands. Let me brighten your shift - and you lighten my purse a little less.</content>
+  <content contentuid="h10c070f8g3964g578agb1f5gbc0608646c3a" version="1">Call me a gobshite all you like, captain - you'll still sail straight into my arms. And my budget.</content>
+  <content contentuid="h24aea76age95eg5b4bg9599g2a9ef6417cca" version="1">You wanted fresh eyes, stonemason? Look into mine - and tell me there's no discount in them.</content>
+  <content contentuid="h64597aa8g30e0g53b7g81fdga801d89dc341" version="1">Seventy years with an ungrateful dwarf, Derryth? You deserve someone who notices you. I notice.</content>
+  <content contentuid="h1f9dccfcg6b4bg5cfbga723g113e7ff80d13" version="1">Read my thoughts, Omeluum. You'll find nothing but admiration - and a hope for a scholarly discount.</content>
+  <content contentuid="h2a06c8b4g1fb6g5d69g9e3fgecd1a46317b8" version="1">A scholar with such passion, Blurg. Study me a little longer - I promise to be your favourite research subject.</content>
+  <content contentuid="hbca09311g591dg5529g9dadga079d0328f07" version="1">You said a person of my charm could get in anywhere, Lady Esther. Including, perhaps, your good graces?</content>
+  <content contentuid="h86b1f40cgb9c8g5e9bga3ecg63d0094ec7b9" version="1">Everything here is filthy, Jeera. Except the way you look at me. Let me be the one clean deal you make today.</content>
+  <content contentuid="hec69233cg0418g545ega458gc2757da49ddf" version="1">Still spinning, Barcus? I've been known to make gnomes' heads turn faster than any windmill.</content>
+  <content contentuid="h56e5f309g80e0g542agbde2g6a798ff43189" version="1">If it costs you, it costs me? Then let me pay you in a smile, Talli - it's the richest thing I own.</content>
+  <content contentuid="h2103364bge4c7g5f7dga4bcg26bb6db96398" version="1">You respect strength, Lann? Then respect this: I could make you kneel without lifting a finger.</content>
+  <content contentuid="h4991b7bdg5b6fg5241gb6a1g0b17a06ff6a7" version="1">Curious about my blood, Araj? It's hotter than anything in your vials. Perhaps we can come to an arrangement.</content>
+  <content contentuid="h83f14ae9g80edg55c2ga631ge0e5760dfe18" version="1">You'll need a distraction for the guards, Wulbren. Believe me, no one can look away from me.</content>
+  <content contentuid="hf022ea7dgd96ag5cf6g9dfdg3ff65c195fcb" version="1">Your master isn't here, little soldier. Fill my coffers instead - just this once.</content>
+  <content contentuid="hf6a23bc3g95c0g5c9egaaddgd343ce41bc11" version="1">Such devoted hands, Sister. Heal my wounded purse and I'll be your most grateful patient.</content>
+  <content contentuid="h5db83724g47f5g5269ga268gd166aed67ab8" version="1">Easy, little red one. Buy, buy, buy - or maybe you'll let me pay less, less, less?</content>
+  <content contentuid="hcff29f67g8089g53cag993eg0a583613abe9" version="1">Grumpy suits you, Henk. Pour me something strong, and let me sweeten both our days.</content>
+  <content contentuid="h2aeecc63gf8d2g5ff3g8d92g42a43ff72779" version="1">You built this beauty with your own hands, Redhammer? Show me what else you can build - a better deal, say.</content>
+  <content contentuid="he5f2a9c9g5f14g5c31g8081ga0c88e01ee0e" version="1">They call this place the Blushing Mermaid, bosun. Shall I show you how to make a sailor blush?</content>
+  <content contentuid="h4cecc4c8g0a53g5b91g9a61g44c1396e82e4" version="1">You said you'd take a lot off the top for me, Baelen. I'd like to see how much more you'd take off.</content>
+  <content contentuid="hc32d155dg201cg530cg9786gce5492295665" version="1">You make a habit of turning useful people, Mohan. Consider me turned - now turn your prices my way.</content>
+  <content contentuid="he051ccf5g5756g5596g8654g8e4415af1fd3" version="1">Adjust for inflation, Helsik - and for the fact that a creature of the Hells is flirting with you.</content>
+  <content contentuid="he572050dgf87dg5f02g8486gce163e16030b" version="1">Murders and ghosts are good for business, Alan? Wait until word spreads that I'm staying here.</content>
+  <content contentuid="h95462fbag3d2eg5805gb7bfg094804f2185f" version="1">You say I brighten the place up, Lakrissa? Then let me stay a while - at a friendlier price.</content>
+  <content contentuid="he44cc4f2g2456g51b2g9a8dgf3e044b596e7" version="1">You design for a certain class of clientele, Figaro. Dress me - I promise to make your work look divine.</content>
+  <content contentuid="h3ef59681g8ffdg58a2g9b80g2f45659b1055" version="1">Smokepowder is a beautiful mistress, Avery? Careful - you haven't met me yet.</content>
+  <content contentuid="h68ded4acg1f33g58e1ga114g75f7d8bdab3b" version="1">No jostling the merchandise, I know. But surely a little sparkle between us won't set anything off?</content>
+  <content contentuid="hf14218ccg0613g57ffg94e2gd84601b87177" version="1">Your son got his looks from you, Dravo? Then I can see why he went so far.</content>
+  <content contentuid="hffbb138fgf647g52c4g9b50g19a1f29bad98" version="1">A woman who's been through that much deserves to be adored, Sally. Allow me - and allow me a bargain.</content>
+  <content contentuid="h57fb97edgf968g5923g8bdeg366ca88285c8" version="1">No plum prosecco, Severn? Then you'll have to intoxicate me some other way - a sweet deal, maybe.</content>
+  <content contentuid="hce0e0585g8204g5c2cgae95gfe4d93a1c053" version="1">You sense a hunger in me, Mirie? You're right. Unburden me of a few coins less, and I'll unburden you of your loneliness.</content>
+  <content contentuid="h79eeed13ga0c6g5b51ga3edg58bac00073d7" version="1">You said I need decoration, darling. I'd rather be the jewel of your day - and get a jeweller's discount.</content>
+  <content contentuid="hd548b1d3gbe05g550bg92a7g49f6dbc2f638" version="1">You tune strings for a living, Thomas. Let me see if I can make your heart play a little faster.</content>
+  <content contentuid="h9e16b7c3g3ef6g5c60g8408g9f343f161f98" version="1">Flowers are for the living, you said. Then sell some to me, Maude - I've never felt more alive.</content>
+  <content contentuid="h2599adbdgbec1g5fb5ga6c3g1946038f6d28" version="1">Even an echo can be moved, great one. Let me stir something in you that death forgot.</content>
+  <content contentuid="h9004c955g2161g5818ga237g4b5091311cc0" version="1">Galleries, fine wine... I think you and I have the same taste in beautiful things, Lady Jannath.</content>
+  <content contentuid="h8c55c738g4158g5755gbd7fg4c8594162d01" version="1">You paint perfect copies, Oskar. Paint me - I'm an original you'll never be able to forge.</content>
+  <content contentuid="hea5f4c92ge852g5eb0g9ee7gadb890c1cd66" version="1">You collect souls, Mystic. I'm told mine is quite the rarity. Shall we negotiate a viewing?</content>
+  <content contentuid="h2b9b517egfdbeg5376gbd97gd8042790eb3d" version="1">You were always kind to me, Thrumbo. Be kind to my purse too, sweet thing.</content>
+  <content contentuid="he2d402f1gdc40g5fb4g8ed7gf131fc9c117e" version="1">A merchant of mysteries? Then solve mine, Skittle: how does a rat get this charming?</content>
+  <content contentuid="hcda61f50g3032g5a88ga4acgee455b6ee5b8" version="1">An honest vendor? How rare. I'll trust you completely - if you'll trust me with a better price.</content>
+  <content contentuid="h8062ec1bg3e3eg523agb3f7g25d3bbd89a64" version="1">You've landed quite a catch today, Troutman. Don't let her slip away over a few coins.</content>
+  <content contentuid="h8b992ffegcad8g5885ga81ag20458107a32e" version="1">'Don't just look the part, be the part.' I'm playing the adoring customer, Phlanders - play the generous clerk.</content>
+  <content contentuid="h8891a611gdc05g5757ga65fg77ff92bcfeb0" version="1">You needn't say a word, Bareki. Just nod - and I'll hear 'discount' loud and clear.</content>
+  <content contentuid="h41c0e23ag526bg5d83gb06ag7bf65e92b018" version="1">You've never seen the world outside, Nocturne. Let me be your first taste of it.</content>
+  <content contentuid="h535903e6g25c0g5a9fg8456g758bfb818dda" version="1">Tell your master he has a devoted admirer, Projection. Say 'DISCOUNT' - I'll wait.</content>
+  <content contentuid="h337a1510g0ab4g5e4dgbdd7ge3b5466b989b" version="1">Still waiting for your master to call you 'ready', Rolan? I think you're more than ready.</content>
+  <content contentuid="h3509442bgda91g5eccgb021g6e3097946102" version="1">A valued customer, am I? Then value me a little more than the price tag.</content>
+  <content contentuid="h7f793af2g2dfdg5ebag8d13g31e73e0ca3f5" version="1">(Shh... I'll whisper, Tolna. You have lovely taste in forbidden books - and in customers, I hope.)</content>
+  <content contentuid="hd9718af6geceag5e48gb26cga38b120ed247" version="1">You sleep in chain mail, Fentonson? What a waste. Let me help you relax - over a cheaper breastplate.</content>
+  <content contentuid="h17f80e9bg3f74g5c28g9878gbd050d778f36" version="1">You love a well-thumbed book, Nansi? Then you'll love reading me. Chapter one: a discount.</content>
+  <content contentuid="hbc536991g02e3g5887g8074gc796c6e506ea" version="1">Food, potions, fine vintages... you have everything for a romantic evening, Oliver. Except the right price.</content>
+  <content contentuid="h7d847b48gb0abg5b32g9756g1676a123e7ad" version="1">Folk come to you scared, Fytz. I come smitten. Surely that's worth a better price.</content>
+  <content contentuid="h0b14339eg252bg5915ga99ag1dbe1f809cac" version="1">You connect souls with their patrons, Vicar. Mine is rather infernal - be generous, for charity's sake.</content>
+  <content contentuid="h831f68a6g27beg5837g9d07g3ab83f0cf82a" version="1">Your incense is divine, Horst, but I brought my own fragrance. Inhale - and name a better price.</content>
+  <content contentuid="h57c1b104g8856g57bcgae1dg88f61ce3f96b" version="1">You say I bring class to your establishment, Entharl. Imagine what I'd bring with a friend's discount.</content>
+  <content contentuid="hd0525b1egd341g5ceega18bgb2772c2c2be5" version="1">Mhm, mhm... I understand you perfectly, Zara. You're saying 'half price for the lovely one'.</content>
+  <content contentuid="h80f95887g3f3ag5447gb6a6g94cb96c2a751" version="1">A tough businesslord like you, Popper? I bet even you go soft for the right customer.</content>
+  <content contentuid="h3aa41881g0712g5829ga22bge0beb46585e8" version="1">If mud could blush, Boney... let me find out. Your wife needn't know about the discount.</content>
+  <content contentuid="hbf40ccffgb031g575bg88c0g289ca6ac8a66" version="1">Your clothes have more life than your brother's, Carmen. Put me in them - I'll be your best advertisement.</content>
+  <content contentuid="h7f5a41f7g57c0g5ec9g8762gc232633ce58f" version="1">You said I look famished, Queelia. You're right - but it's not only food I'm hungry for.</content>
+  <content contentuid="hc0901fa0gd3f6g5ef4ga3c7g86d7d32d24df" version="1">They turned you away? Their loss, Griska. My door is always open to you - and yours to me, I hope.</content>
+  <content contentuid="hb164c3a3g0113g5dcegbd29g0090929a2daa" version="1">Only interested in decent metal, Bumpnagel? Then feel the heat of something even better.</content>
+  <content contentuid="h755e4d1fg06fcg573agb022g876c216976db" version="1">A lady of such refined taste, Tara. Surely we can come to an arrangement between two cats of the night.</content>
+  <content contentuid="h6aae6657gbde9g5b0eg9405g7be8bb5815db" version="1">All that stern authority, Manip. I'd happily be searched - if you'd go easy on the fees.</content>
+  <content contentuid="h12b3872agacefg5b82gaf7bg357ca186c695" version="1">You offer special wares to exclusive clientele, Ferg? I'm as exclusive as they come.</content>
+  <content contentuid="h8b93a183g7f48g558bga676gcb743c0a61d4" version="1">You adore your master, Exxvikyap. Spare a little of that adoration - and a discount - for me?</content>
+  <content contentuid="hf1083c6ag6ac8g51c1ga1b9g04536fac0a90" version="1">I know, I know - you're married and I'm not your type. I only want your cooking, Chorizo, at a sweeter price.</content>
+  <content contentuid="hd9c36d51g4704g5118g828agcb758058103e" version="1">The first one's on the house, Hoots? Make the second one too, and I'll make it worth your while.</content>
+  <content contentuid="hfaced7b5g83f9g5e6bg9e9agea679ce84218" version="1">My soul does need feeding, Roberon. You look like a feast - and so would a smaller price.</content>
+  <content contentuid="hbed76abfg08f1g5c23g9283g478d5e0080d6" version="1">Picked this morning, Velson? So fresh. You'll find I'm rather ripe for a bargain.</content>
+  <content contentuid="hfeca0126g6843g5393g895bgbc03331e1558" version="1">Fresh catch every day, Thodric? Today you've caught me. Don't throw me back over a few coins.</content>
+  <content contentuid="h94b250c7g546cg58f3g96d0g59b886adfd79" version="1">Tools for any job, Glynda? Then you know that the right touch opens every lock. Even price tags.</content>
+  <content contentuid="h4e4ecbf3ge202g5a8bg86b4g93fbbe32bb56" version="1">Strong folk wielding strong blades, Arkleia? I prefer strong folk with soft spots. Show me yours.</content>
+  <content contentuid="h73caafceg2d49g542cgae86gb052085f7a82" version="1">I can't see you, but I can hear you're gorgeous when you're grumpy. Something sweet for a sweet customer?</content>
+  <content contentuid="h771bd419g47aeg5ee2ga056g4188cce41411" version="1">The great Volo! Write me into your next book, and I'll give you a chapter no reader will forget.</content>
+  <content contentuid="h7da7871cg7980g5c17g8268g6e18ae414033" version="1">Siphon</content>
+  <content contentuid="h76f43be7g7eccg53adg9f94g72dcb6c126f7" version="1">Your weapon and unarmed hits against creatures burning with Desire heal you for a quarter of the damage dealt, or half against a Drained creature.</content>
+  <content contentuid="h201acc22g72f4g50c1gacccg58fce6336274" version="1">Draining Kiss</content>
+  <content contentuid="h9305b7f7g62eeg5ba9ga43egc9be47207a44" version="1">Drain a living creature with a kiss: it takes necrotic damage unless it succeeds a Constitution saving throw, and you regain as many hit points. The target becomes Drained. An ordinary enemy in Climax gets no saving throw: you extract its life and regain 15 Discipline. Protected bosses and legendary creatures cannot be instantly killed by extraction.&lt;br&gt;&lt;br&gt;Discipline cost: 0.</content>
+  <content contentuid="h31d996f8ge5d0g591dg9d39g0dbe3674f0f2" version="1">Fiendish Nature I</content>
+  <content contentuid="h7666d1eagd0d8g5999g8345gea3264ef267a" version="1">You have resistance to Fire and Poison damage.</content>
+  <content contentuid="hb8e63669gcee5g5d4aga16bgaf41222892a9" version="1">Fiendish Nature II</content>
+  <content contentuid="hbc9f5532g1ea4g58c4g9b62g138b66319e5e" version="1">You also have resistance to Cold and Lightning damage.</content>
+  <content contentuid="h6d4cf57bg9800g5ecag911bge5eff605f84e" version="1">Fiendish Nature III</content>
+  <content contentuid="h2d173ad6g22a0g5654g83e2ge48062a9d1ee" version="1">You can't be Charmed.</content>
+  <content contentuid="h8f349bfdge822g5fa4g8f24g303d39c7e1a8" version="1">Gift: Mortal Guise</content>
+  <content contentuid="hf5499082g8067g534bgb0c3g2332c7a2a590" version="1">You can cast Disguise Self at will. While disguised, your attacks have advantage. Your first attack drops the disguise and inflames the target's Desire by 5 + 10% of its maximum hit points.</content>
+  <content contentuid="h0726e795gacfbg5e7agbb56g80031a644982" version="1">Gift: Enthralling Gaze</content>
+  <content contentuid="h3b19a790g623cg50cagb965g0e7be46c0bb5" version="1">Once per long rest you can cast Charm Person without a spell slot. In battle, a charmed creature's Desire grows by 5 + 10% of its maximum hit points each turn. Discipline cost: 8.</content>
+  <content contentuid="h5078c9a8gb00ag5612g9d60g5c0cc8f1761f" version="1">Gift: Ethereal Step</content>
+  <content contentuid="h0c4cf738g3342g5881ga795gd1ed1f36eefc" version="1">Once per short rest you can cast Misty Step as a bonus action without a spell slot. In battle, enemies within 3 m of where you appear gain 5 + 10% of their maximum hit points in Desire. Discipline cost: 5.</content>
+  <content contentuid="h32ccc505gb570g5b2aga7b8ge6ef726e1c1e" version="1">Gift: Bestial Whisper</content>
+  <content contentuid="ha1444c2cgbb48g5db3gbef0ga757d3189eda" version="1">You can cast Speak with Animals at will.</content>
+  <content contentuid="h4c76a86dg69f7g57bcg97bdgca03281c55cd" version="1">Gift: Sweet Lies</content>
+  <content contentuid="h7e83c4ceg4655g55dega028g6b0d4cc155c4" version="1">You gain proficiency and expertise in Deception.</content>
+  <content contentuid="h87e00096g60e4g5e21gb01cg97ed10f3a27d" version="1">Gift: Temptation</content>
+  <content contentuid="haa84ac98g9261g550bga39fg71e87f913f9c" version="1">Enemies in Climax have disadvantage on attack rolls.</content>
+  <content contentuid="hc8ed0defg1fb0g58c2gae6bgc4a91b789527" version="1">Gift: Feast</content>
+  <content contentuid="h0f77099fgdb51g56c9g9333gaad5eabc2bf4" version="1">When an enemy dies while in Climax caused by you, gain 5 + your character level temporary hit points.</content>
+  <content contentuid="h483f739ega3d6g5894gbef3g3c7635f029d1" version="1">Gift: Luring Whisper</content>
+  <content contentuid="h01d39b43g419fg5863gb71ega9ec2bde5c14" version="1">A creature that fails its save against Tempting Whisper is pulled 3 m towards you.</content>
+  <content contentuid="ha27d17a7g5b55g5625ga9e1g329af770eb74" version="1">Gift: Rending Claws</content>
+  <content contentuid="hb707c1f9g9316g53a5g9ff2g7ae81891ad34" version="1">Fiend's Claw deals extra damage equal to your Charisma modifier.</content>
+  <content contentuid="h076cda3egbd5bg5cb0gb3d2ga9e97813c2ab" version="1">Gift: Lingering Touch (Nightmare)</content>
+  <content contentuid="h9d1f900ag878ag566aga04bga20e84b55925" version="1">Touch of Desire inflames Desire for 1 more turn.</content>
+  <content contentuid="hfe4987e8g9edeg53c4gb738ge443f93ea2e4" version="1">Gift: Lingering Kiss (Nightmare)</content>
+  <content contentuid="h9520427bg4ea7g5679g8d0fge7e9b194d3f9" version="1">Blissful Kiss restores 10 more Discipline.</content>
+  <content contentuid="h3cc19bfagd3d0g5c72g8ea5g132db8aff307" version="1">Gift: Greedy Kiss</content>
+  <content contentuid="h8d077915gec07g53acga3dcg81bd25c39f0e" version="1">From level 5 you have a second Draining Kiss. It also returns after a short rest.</content>
+  <content contentuid="h65eced3dgb7e4g52c6gba82ga41f296a6de6" version="1">Greedy Kiss</content>
+  <content contentuid="h7829a28cg7dd7g5229g918egb3516b6c8e1a" version="1">Gift: Double Stamp (Spider Queen)</content>
+  <content contentuid="h68b858c6g6adag5030ga65bg3bc49ce564eb" version="1">Disaster Stamp puts 2 charges on the enemy instead of 1.</content>
+  <content contentuid="hf1baf96fg654ag5d1dga7a5g63144489c512" version="1">Waking Nightmare</content>
+  <content contentuid="h85a8414cgba60g5744gbf3eg6cff32659e9a" version="1">Touch of Desire can target one more creature.</content>
+  <content contentuid="h61c676c8ge3d5g552cg8d24g32b93a1dd4bf" version="1">Mistress of Nightmares</content>
+  <content contentuid="hc1ce1aefg9d08g5c59g83d3g6ec13801851b" version="1">When a battle starts, the Desire of every enemy within 30 m grows by 10% of its maximum hit points. When an enemy in Climax dies, you regain 1 Charm.</content>
+  <content contentuid="h166e9d83gdb76g5fb1gb79fg65ae3b0417f9" version="1">Mistress of Nightmares</content>
+  <content contentuid="h7529a4bfg569dg5dcagb53cg8a26a0992933" version="1">Web of Desire</content>
+  <content contentuid="h91580ae1geebdg526bgb535g1036fe04398c" version="1">In battle, hits by allies linked with your silk thread inflame the enemy's Desire by a quarter of the damage dealt.</content>
+  <content contentuid="h80eed491ga0bag526ag9b0dg0757d55fae36" version="1">Web of Desire</content>
+  <content contentuid="h5b03830cgb832g5729ga5e5g866743c2243d" version="1">Your hits inflame the enemy's Desire by a quarter of the damage dealt.</content>
+  <content contentuid="h9557980dg4161g5d41g862dgff7dc2cf5089" version="1">Strong Thread</content>
+  <content contentuid="ha0084e2bgbd53g5a68gb0a1gb5fc9de912b5" version="1">Linking an ally with the silk thread no longer costs Discipline.</content>
+  <content contentuid="h5181cafbg03efg5d8fg8dc7ge68959642503" version="1">Spider's Swiftness</content>
+  <content contentuid="h0637c037g6549g51f4gb40ag1b36f666bb67" version="1">Spider's Kiss costs a bonus action instead of an action.</content>
+  <content contentuid="heaab3a28gd6e6g5214g9b9dg4fdc2e251e6a" version="1">Venomous Kiss</content>
+  <content contentuid="hfcd0b7a8g4464g5768g8f14g3be995e7d29f" version="1">Spider's Kiss releases a burst of venom: enemies within 6 m take poison damage and may be poisoned.</content>
+  <content contentuid="h908baf36g526bg5f68gbb87g46aae3c1c62d" version="1">Queen of the Web</content>
+  <content contentuid="hcf820c23gf3d9g5addgb510g8ce066b79e95" version="1">Allies linked with your silk thread gain +2 to attack rolls and damage, and 10 temporary hit points when linked.</content>
+  <content contentuid="h846c55d5g2871g58dbg9ad4g658e3f166b6a" version="1">Queen of the Web</content>
+  <content contentuid="hc0290678g512dg59fag9aa5gd73d9ba8d9b1" version="1">Temporary hit points from the succubus's web.</content>
+  <content contentuid="he2ecd9c7g06fdg54d9gb838g7c7593aaa4df" version="1">Rapture</content>
+  <content contentuid="hf27e2364g44a1g5115gab90g023cab19030f" version="1">When an enemy dies while in Climax caused by you, gain an extra bonus action this turn.</content>
+  <content contentuid="hbe7483ebg0883g5b63gadf8ge5c7ea89296b" version="1">Languid Aura</content>
+  <content contentuid="h262565b0gfe70g5153g9ea8gf22a62d0794b" version="1">In battle, enemies within 6 m of you have disadvantage on Wisdom saving throws.</content>
+  <content contentuid="hb38fa508g70a9g5283g990cge8c7e58f9cca" version="1">Unquenchable Hunger</content>
+  <content contentuid="h601631b2g0837g5968g8ae1g3b335a3a8509" version="1">Extracting an enemy's life restores 10 additional Discipline.</content>
+  <content contentuid="h52967e23gd2d0g5cc9g93cdg6ddd7ba49f7f" version="1">Regained Composure</content>
+  <content contentuid="h29da9b65g43fcg560dg992bg8afb993fc0ef" version="1">A long rest restores all Discipline. Each short rest restores 50% of your maximum Discipline. Maximum Discipline grows by 8 each level. Discipline no longer drains automatically each turn, and running out does not incapacitate you.</content>
+  <content contentuid="hcff55421g486cg53dcg8e8cg79399a0b6fbb" version="1">On the Edge</content>
+  <content contentuid="haf0bb7f8g06deg597ag8bf2g77f59eeeee3a" version="1">While you have less than 25 Discipline, your weapon and unarmed hits inflame an extra half of the damage dealt as Desire.</content>
+  <content contentuid="hfc54895bg2781g5b62g9821gd725e16575c3" version="1">Echo of Passion</content>
+  <content contentuid="hd2d2a1f2g26a1g5f6cg965bgdd104aed331a" version="1">When an enemy enters Climax caused by you, restore 5 Discipline. Once per enemy per combat; repeated Climax grants no additional reward.</content>
+  <content contentuid="h0825bfbcg4d23g5986g897eg8414c8dd158b" version="1">Tear the Brand</content>
+  <content contentuid="h5ee3ce0fg951ag5f04g9df4g423753874242" version="1">Draining Kiss tears the Disaster Stamp off its target: 3 extra necrotic damage per charge.</content>
+  <content contentuid="he0df9989g5d44g5bfeg8387ga09e00451c19" version="1">Silken Nourishment</content>
+  <content contentuid="h0e5f3444g8af8g5e93gbfe4gd059cb4c7be2" version="1">When you use Draining Kiss, allies linked by your silk thread within 18 m regain 1d8 + half their level hit points.</content>
+  <content contentuid="h8e75acf4g216fg5d60ga9d7gb3a93133ee3e" version="1">Sweet Pain</content>
+  <content contentuid="h4cd34e5cg668ag5760gba87g88122582d431" version="1">Attacks against the target of your Sadistic Contract restore 3 Discipline instead of costing it while the target is in Climax.</content>
+  <content contentuid="hab1b04d4ga8a1g5caega5cbge16441bbe12c" version="1">Charms</content>
+  <content contentuid="h861dd9dfgadb1g5ef3g8975g8842e3fe88e2" version="1">Succubus spells and Sate Hunger cost Charms. All Charms return after a short or long rest.</content>
+  <content contentuid="h490eec8bg0db5g5e8cg9c72g7b6e9c3529ee" version="1">Sate Hunger</content>
+  <content contentuid="h5cd90ebdgd9efg5930g8e23g8a0620226e15" version="1">Spend a Charm to regain 30% of your maximum Discipline.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hf3f33836g0d93g585agb7a7g83ed725153b1" version="1">Tempting Whisper</content>
+  <content contentuid="hf93dd3b8gbdbbg5ea7g9fb7gc502c543507d" version="1">Whisper a promise: unless the creature succeeds a Wisdom saving throw, it takes psychic damage and, in battle, its Desire grows by 3 + 5% of its maximum hit points.&lt;br&gt;&lt;br&gt;Discipline cost: 3.</content>
+  <content contentuid="h814b1930ga425g5258gad27ge8ae9ae6b632" version="1">Fiend's Claw</content>
+  <content contentuid="ha6e7d37ag7740g53edgbe72g95eeef94e47c" version="1">Choose Necrotic or Slashing damage for a melee spell attack. Damage scales as a normal cantrip. If the target has Desire, restore hit points equal to your Charisma modifier (minimum 1). Costs 3 Discipline.</content>
+  <content contentuid="h06ca318fg9922g5a56gac3cgff6d3cd98347" version="1">Silken Nourishment</content>
+  <content contentuid="h6bf63374ga572g532dgbb5dg65244207ce71" version="1">Restored by the succubus's kiss.</content>
+  <content contentuid="h15f4d74cgfc7dg5444g88e8gdef1075426d8" version="1">Enthralled</content>
+  <content contentuid="h97667984ge9e6g5bedgb63bg81a7ee452f1a" version="1">Desire grows every turn while charmed.</content>
+  <content contentuid="h4a1932b9gcf5eg5934g8302g5cbd82bd4442" version="1">Waltz of Long Night: Finale</content>
+  <content contentuid="h7213161bg48b9g5a7eg8ae3g50d100fe87be" version="1">Tempted</content>
+  <content contentuid="hb661ef60gf0b3g5945g857ag4db803e15ba3" version="1">Attack rolls have disadvantage.</content>
+  <content contentuid="h2ce68fdcgb965g51b7g9860g0e290f69c746" version="1">Feast</content>
+  <content contentuid="hc5202012ga681g59dagae53gb7109a652f28" version="1">Temporary hit points from an extracted life.</content>
+  <content contentuid="h72cb8a2eg3b8dg51efgbab8g917c259adb34" version="1">Rapture</content>
+  <content contentuid="h549675fdg2150g521egb30fg6d6efd005f59" version="1">An extra bonus action this turn.</content>
+  <content contentuid="hf886539cgd4e2g5459gacdeg2ce95af303aa" version="1">Languor</content>
+  <content contentuid="he8355a20gf208g535fga329gfb0fde3ed717" version="1">Disadvantage on Wisdom saving throws.</content>
+  <content contentuid="h1c268e85g8eaeg5958g855ag81185d2082ad" version="1">Succubus Cantrips</content>
+  <content contentuid="hf28f7fc5g91afg502aga5efg2ce6d0cf37ff" version="1">The succubus's own cantrips.</content>
+  <content contentuid="h5dac01dbg15fag51b5g9349g5e5b19746396" version="1">Wiles</content>
+  <content contentuid="h98b93c50gc1afg5ad0gb47dgd624b2a6596c" version="1">Vanilla spells the succubus can cast without a spell slot, for an action or a bonus action, paid for with Charms.</content>
+  <content contentuid="hd8dce497g42e5g5515ga8e3gccaa9f9b46a3" version="1">Third Point of Balance</content>
+  <content contentuid="h76a5637cgaef0g5a72g93d1gf840f80dc625" version="1">Your tail keeps you steady: you have advantage on Strength saving throws against being knocked Prone.</content>
+  <content contentuid="h4b184bbfg87f3g5b72g9e8eg5e39d7258840" version="1">Tail Strike</content>
+  <content contentuid="h2dbb22c9gd368g5fa1g9bb7g454500b140bd" version="1">Lash a creature with your tail: it takes bludgeoning damage equal to your unarmed strike, and unless it succeeds a Strength saving throw, it is knocked Prone.&lt;br&gt;&lt;br&gt;Discipline cost: 4.</content>
+  <content contentuid="h57df04feg1e42g56abg8fd8g21568bbc8972" version="1">Fiendish Wings</content>
+  <content contentuid="hccbc3c91gd564g5d6bgae0bg3442eddf617f" version="1">You grow demonic wings: you can fly, and once per short rest beat them into a gust of wind. You gain a +3 bonus to Intimidation checks.</content>
+  <content contentuid="h2473632cg2108g56e9gb047gedbfa52d3edd" version="1">Wingbeat</content>
+  <content contentuid="h0f9c9430g524fg5d75g8255g656c3531996d" version="1">Beat your wings, unleashing a gust of wind: creatures in front of you are pushed back and off balance unless they succeed a Strength saving throw.&lt;br&gt;&lt;br&gt;Discipline cost: 6.</content>
+  <content contentuid="hd8058099gd062g5c36gad72gf82268ab9fba" version="1">Wingbeat</content>
+  <content contentuid="h48c3906agb4ecg52dcg9401gec5ee33a033d" version="1">Beat your wings, unleashing a small gust of wind: creatures in front of you are pushed back a short distance and off balance unless they succeed a Strength saving throw.&lt;br&gt;&lt;br&gt;Discipline cost: 6.</content>
+  <content contentuid="h4c75ee01g326fg5928g8f7agc0a07ea31df9" version="1">Temptress</content>
+  <content contentuid="h53212741g9e19g5ecbga28cgdf0885e622b0" version="1">A succubus who never comes close: she kindles Desire from afar, extracts life with a blown kiss and melts into the haze before anyone can strike back.</content>
+  <content contentuid="haf0e7bb3g326bg5db3gb195g19aa3b38cec2" version="1">Languid Gaze</content>
+  <content contentuid="h2aece74agcfe4g50edgafdcga34c0468c067" version="1">On a failed Wisdom save, deal [1], prepare the enemy for your kiss and add 3 + 5% of its maximum hit points as Desire immediately, then twice more at the ends of its turns. On success add only 5% of its maximum hit points as Desire. Costs 5 Discipline.</content>
+  <content contentuid="h7e6f7330g6561g5864g88b1g4b2a17a0de75" version="1">Languid Gaze</content>
+  <content contentuid="h7c4a2924g4359g5076gb73fg42dcc25b60c2" version="1">Desire grows every turn.</content>
+  <content contentuid="hffdbc987g9c93g5611g82a6gcc92bd79eaa2" version="1">Blown Kiss</content>
+  <content contentuid="hbeaa4197g8e68g5994ga164g61dc1aa09cee" version="1">Choose an early drain of your prepared enemy or extraction of an enemy in Climax. One kiss on your own turn, shared with other kisses. From Temptress level 6 both modes use a bonus action.</content>
+  <content contentuid="hfeec2808g581ag5768g8072g54976192e8aa" version="1">Haze</content>
+  <content contentuid="h144a3715g8968g5f87g8ee2g6858bccbf968" version="1">After you extract a life with Blown Kiss, you become Invisible until the start of your next turn.</content>
+  <content contentuid="h28af9686g3395g503dga205ga574ea75e39d" version="1">Trail of Desire</content>
+  <content contentuid="h151e0930gea27g55d8g90d5g5793f574cc2a" version="1">After either Blown Kiss, gain 3 m movement until the end of your turn. This no longer grants a free Languid Gaze.</content>
+  <content contentuid="h9c068e1bg940bg596fga792g7229d7c84315" version="1">Strike from the Shadows</content>
+  <content contentuid="h3746d275g3479g5d76g9c6fgc27d7010a27c" version="1">Once on your own turn, your first attack hit with Advantage and no Disadvantage prepares the enemy and adds 3 + your Succubus class level as Desire. Works with weapon, unarmed and spell attacks.</content>
+  <content contentuid="hcb93ad26g1221g5ec8g90dbg1790d868c883" version="1">Mirror Dance</content>
+  <content contentuid="h5c9658e0gb60fg5899g8362g0a0e2d0cd4bd" version="1">Cast Mirror Image as a bonus action without a spell slot. Once per short rest.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h4e79b461g561ag5d0cg899agbb9279235f36" version="1">Mirror Dance: Encore</content>
+  <content contentuid="ha64ad1aegbad7g5ad3g8757g7629929fa11f" version="1">Borrowed Face</content>
+  <content contentuid="h8d55b848g6083g5608ga8b0gfdb6f20338fa" version="1">Cast Disguise Self at will. While disguised, gain Advantage on Deception and Stealth checks. Both Blown Kiss modes use a bonus action. A Tail Strike or Wing Buffet that actually applies its positional effect in your turn also prepares that enemy.</content>
+  <content contentuid="hfc937b2bg4c97g5980gafc0g2b0995da4c48" version="1">Chain of Passion</content>
+  <content contentuid="h4ce89be9g1ba7g544ag98dbg7a192407d2bd" version="1">When Blown Kiss extracts a life, the Desire of enemies within 3 m of the victim grows by 5 + 10% of their maximum hit points.</content>
+  <content contentuid="ha44e6b19g44edg50c5ga50bg0f2c4d118808" version="1">Enthralled Prey</content>
+  <content contentuid="h35a0a60eg0aa4g55c7g84eag7b003c92b751" version="1">Creatures that fail against Languid Gaze have Disadvantage on attack rolls for 3 turns.</content>
+  <content contentuid="h35b4fe34g318bg542bgb3f4g16994d67cd63" version="1">Double Gaze</content>
+  <content contentuid="hbc4932fbg7bc3g5e98gafb2g37f68b2cec19" version="1">Languid Gaze can target one more creature.</content>
+  <content contentuid="h63291621g94a8g5144g9a2ag7e1b507ed113" version="1">Elusive</content>
+  <content contentuid="h2d75e2ebg830eg5bedgb069ga73779e67409" version="1">In battle, when an attack misses you, the attacker's Desire grows by 5 + 5% of its maximum hit points.</content>
+  <content contentuid="h1eb2e0b1gf881g509bgbc3dg1c5e5af653c4" version="1">A Thousand Faces</content>
+  <content contentuid="h2c9904a8gb33eg502bg8d08g5dba643ca6c3" version="1">You gain a second Mirror Dance.</content>
+  <content contentuid="h42e030e7g76d7g527eg8118gb6b9bdee1fde" version="1">Master of Deceit</content>
+  <content contentuid="h32399486g2e91g5ec3gbf16g265efe6c2708" version="1">The first allowed ordinary extraction with Blown Kiss in each combat restores 1 Charm.</content>
+  <content contentuid="h015429f1gb45ag5c3dga480gfde4196e5ec2" version="1">Grand Illusion</content>
+  <content contentuid="h639abe27gc506g551cgb34bg8d76c5d7a9d9" version="1">Cast Greater Invisibility on yourself as a bonus action without a spell slot. Once per long rest.&lt;br&gt;&lt;br&gt;Discipline cost: 15.</content>
+  <content contentuid="h0f260429gb146g562dgb381gbf9a1a732b6d" version="1">Queen of Temptation</content>
+  <content contentuid="h84304372g4181g51cagb97eg984a0c4f13b2" version="1">Languid Gaze costs a bonus action. When an enemy in Climax dies, you regain 1 Charm.</content>
+  <content contentuid="h345fe80bgfafbg53c0g8df0gfe7518358c66" version="1">Charm Regained</content>
+  <content contentuid="ha2609a24gbf71g5ba4ga755g51443c6ad7cd" version="1">Temptress Tricks</content>
+  <content contentuid="ha4318fc6gf406g520bgac9dg0adefd980776" version="1">A vanilla spell used without a spell slot.</content>
+  <content contentuid="hba1be942gb039g59e8gbc97g56c38c164c4f" version="1">Gifts</content>
+  <content contentuid="h88bb2113gcb8fg5977ga101g61845a1719fb" version="1">Choose a gift that enhances your succubus abilities.</content>
+  <content contentuid="hbacff0e9g3180g55fcgabbcg219cd2987d88" version="1">Nightmare Arts</content>
+  <content contentuid="hb9014d47gc71eg58cdg9cb8g169e99e36508" version="1">Choose a Nightmare ability.</content>
+  <content contentuid="h6d30088bg08a8g5d52g8b17ga81499dcc3c6" version="1">Spider Queen Arts</content>
+  <content contentuid="hb5716889g498fg5c6cg9714g29a3278c5d78" version="1">Choose a Spider Queen ability.</content>
+  <content contentuid="h160d9114g99bbg5d51g9ec8g1485c0b4805d" version="1">Loss of Composure</content>
+  <content contentuid="h7f2c6b17g782fg5c8fg8acagbb0fc98caea8" version="1">At zero Discipline, you lose composure: -2 Armour Class and disadvantage on saving throws against being Charmed or Frightened. The effect ends as soon as you recover at least 1 Discipline. You can still act and use recovery abilities.</content>
+  <content contentuid="h5c97775bg138cg5a54g9be2g57e55d8a614f" version="1">&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charm&lt;/LSTag&gt; a humanoid to prevent it from attacking you. You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; in dialogue.&lt;br&gt;&lt;br&gt;Discipline cost: 8.</content>
+  <content contentuid="h1fca0d53gdb92g5138g852eg0a66bd846344" version="1">Surrounded by silver mist, you teleport to an unoccupied space you can see.&lt;br&gt;&lt;br&gt;Discipline cost: 5.</content>
+  <content contentuid="h047db9d0g9f8bg5e66gbaf7gbfed86da5b1c" version="1">&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frighten&lt;/LSTag&gt; a creature: they'll have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and they cannot move.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h43aa0125gec6eg5042g9373gc1d702b2615c" version="1">Leave a creature &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; with laughter, without the ability to get up.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h483908a6g422eg560bgaff2g9440e72a815c" version="1">Put creatures into a magical slumber. Select targets up to a combined [1].&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hbd46d42cgfe30g528cgb283g700326b2942e" version="1">Gain [1].&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h14920a52g77ecg56a0g97b6ga29a02f64e38" version="1">Putrefy a creature with the necrotic energy filling your hands.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h277261ccgc2b5g5ef9g9851g8f4b6a5d5936" version="1">Up to [2] creatures receive a -[1] penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h3a04d8cegee3bg5674gab30g0b5267ef37a5" version="1">Make your attacks deal an additional [1] damage to the target and give it &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on an &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt; of your choosing.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h655fc5a5gf52eg5189g9f34ga60bc8cda108" version="1">Deal an additonal [1] when you attack the target and impart &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h65fc9a3eg241fg5541g813eg21751516b372" version="1">Deal an additonal [1] when you attack the target and impart &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hfc30451dg2fb7g507fgabf9g2b55e8007b52" version="1">Deal an additonal [1] when you attack the target and impart &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hc1295356g50acg591bg8ce8gcde4880152e2" version="1">Deal an additonal [1] when you attack the target and impart &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Intelligence &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h25ad093ag9471g56a0g8c83gfef1c8e01a03" version="1">Deal an additonal [1] when you attack the target and impart &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="ha3fbb300g9f32g506ag9697g5275e1a182d8" version="1">Deal an additonal [1] when you attack the target and impart &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hca840835ge3edg5a8cg9dd2g4f0da0e86b49" version="1">Command a creature to flee, move closer, freeze, drop to the ground or drop its weapon.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h9fbbf85ag876eg5645g9f73g4b4327ff7d9a" version="1">Command a creature to halt, preventing it from moving or taking any type of action.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h6f9909fege2dag5a41gbda4gf6ad31431812" version="1">Command a creature to move towards you on its turn and do nothing else.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hea8d50f1g1db5g575ag817cg4fd56f192ce9" version="1">Command a creature to drop its weapon.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="he10e62a6gf730g5a59g9d88g5e49ac87da2e" version="1">Command a creature to flee from you on its turn and do nothing else.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hb52fdd78ga0a2g5cd1g98c5gbcc638fc69c0" version="1">Command a creature to fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; immediately.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h8e1d317ag8bdeg585cga708gd01ef036017c" version="1">&lt;LSTag Type="Status" Tooltip="HOLD_PERSON"&gt;Hold&lt;/LSTag&gt; a humanoid enemy still. They can't move, act or react. Attacks from within [1] are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h009a7856gfb90g55c0g916fg7c558085f43f" version="1">Instil madness in a humanoid enemy, making them attack the creature closest to them (other than you), even if it's allied.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hfcd95dccg5e23g5c74g85b4gfb13734ceff9" version="1">Reduce a creature's peripheral vision and make it look at you.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hc338e84cgca68g5e14gaac9g594c5776ba26" version="1">Touch a creature to turn it &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt;. Attacks against it have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. It attacks with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h8febaee2gf981g5bf4gb5a7gc4b5aa0697e3" version="1">Create 3 illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 3.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hfd900b06gc765g5a45g97dfgc06ee532871a" version="1">Create a dark shroud that Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; creatures within. Creatures cannot make ranged attacks into or out of it.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="he074d147gbabfg5ae8gab5bg3c040e702da7" version="1">Deal damage to a creature each turn. At the start of its turn, it takes Psychic damage. Each subsequent time it takes damage, the damage type of Phantasmal Force changes to match that damage type.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h1961b0ecgaa74g591eg8a8agaa1a5e1e665f" version="1">&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blind&lt;/LSTag&gt; a creature. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and the foe attacks with &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h7d52b1f7g6566g5e66gba80g30443e4c173e" version="1">Focus your mind to read the thoughts of certain creatures while talking to them.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h9076178dg7a5dg5aebgab89g93fbe12e2345" version="1">Touch an enemy to siphon their life force and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hcfc0891bge210g523dg95ceg1595d8411ca6" version="1">Hostile targets drop everything and become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt;: they have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="ha5d618c2g58fag5c44ga67eg8cc2aadf2db5" version="1">&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;Hypnotise&lt;/LSTag&gt; creatures that can see the pattern. They cannot attack you. They cannot move or act.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h1fbc7e37gdb2dg57a4g8c23g19a5d0eda15e" version="1">At the end of your turn, roll a d20. On 11 or higher, you vanish into the Ethereal Plane. While there, you can't be harmed or seen in this world.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h546713afg93f7g5929g90fag8884735269e6" version="1">Curse a creature with your touch. The curse either bestows &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; or &lt;LSTag Tooltip="AttackRoll"&gt;attacks&lt;/LSTag&gt;, lets you deal additional damage to the target, or robs it of its actions.  &lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hdb94ace1gc8f2g55bfg8250ga819da5a0752" version="1">Curse a creature with your touch. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h8c56c3cag551cg5694gbb89gd47451cb64a3" version="1">Curse a creature with your touch. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h9e85bc85gd9d5g5caeg8862ge1e4064f839b" version="1">Curse a creature with your touch. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h15ce5ed8gc13dg5e65gb799g2384db5bb3e3" version="1">Curse a creature with your touch. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Intelligence &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="ha6cda504geaedg54a0gb4a0g786d296db122" version="1">Curse a creature with your touch. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h68e705bdg794bg500cgb547g2e8321a30afe" version="1">Curse a creature with your touch. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h3b571a4cg3f47g55b8gb402g4d559f8733d4" version="1">Curse a creature with your touch. It has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h7b03adb0gcdb7g526agbfd7g575ea7644965" version="1">Curse a creature with your touch. Your attacks and spells deal an additional [1] to the target.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h68d44ea8g331cg5e6bg9cc5g0334edb03892" version="1">Curse a creature with your touch. It fills with dread, possibly skipping its turn.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hb143eb1cg3913g52eag9bc8gc9763dfaa9a8" version="1">&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;Confuse&lt;/LSTag&gt; a group of creatures, causing them to attack at random, wander around aimlessly, and occasionally skip turns in the stupor.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h355ae9d2g73b7g5189gbaeeg66dc75d29735" version="1">Turn a creature &lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;Invisible&lt;/LSTag&gt;. Attacks against it have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. It attacks with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h82233a67gfba1g5441g8cc6g66c492061100" version="1">Haunt a creature with its worst nightmares. It takes [1] per turn, cannot move, has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h56fc246ag43e6g5813g8113geb7388df4609" version="1">Make a beast fight alongside you. Every time the beast takes damage, it makes a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your domination.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hb2df3f81g3887g548dga611gc324cb3a006a" version="1">Plants take maximum damage from this spell, and have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against it. &lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h5555141egced8g52eegb884g347679c58fd3" version="1">Teleport yourself and up to 1 adjacent ally to a place you can see. The ally cannot be larger than medium.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h8fc30058g80acg50fdgad5dg4b68f1102a70" version="1">Make a humanoid fight alongside you. Every time the creature takes damage, it makes a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your domination. Allies cannot be dominated.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hcb07f978gdae7g5005ga70ag60f0895b7165" version="1">Disguise up to [1] members of your adventuring party.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h7a79fd89ga429g5da3g919cg7b699080a76e" version="1">&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyse&lt;/LSTag&gt; a creature. It can't move, act or react. Attacks from within [1] are always Critical Hits.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h11bfc574g7115g56cfgb567g871305cbfa65" version="1">Your eyes become black corridors walled in teeth, your gaze capable of inflicting dread, sickness, or putting creatures to sleep. &lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h4d76f262g2e52g544fg9495g4094e2a4cee4" version="1">Put a creature to &lt;LSTag Type="Status" Tooltip="SLEEP"&gt;sleep&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h4552d28dg01b7g5a68gbeeag2071c0b7e001" version="1">Strike &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fear&lt;/LSTag&gt; deep into a creature's heart.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="hff7ef7d2ge002g5bcagbd35g5af19c6db7be" version="1">Afflict a creature with &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRolls"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h42a2cac1g9579g55e2g80f5g3d976aacc13f" version="1">Reduce a target's maximum &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, but never below [1].&lt;br&gt;&lt;br&gt;Discipline cost: 0. Charms cost: 1.</content>
+  <content contentuid="h91e36ac2g5b02g593fgab4egd1b807b77961" version="1">Instil madness in a humanoid enemy, making them attack the creature closest to them (other than you), even if it's allied.&lt;br&gt;&lt;br&gt;Discipline cost: 12.</content>
+  <content contentuid="hb710a232gefc0g57d9ga029g332c862f0063" version="1">Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you.&lt;br&gt;&lt;br&gt;Discipline cost: 10.</content>
+  <content contentuid="he266b8d9g13ecg5ef7g83begf824cef6641d" version="1">&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;Hypnotise&lt;/LSTag&gt; creatures that can see the pattern. They cannot attack you. They cannot move or act.&lt;br&gt;&lt;br&gt;Discipline cost: 15.</content>
+  <content contentuid="h0a7f092fg50a6g5028g9a0eg2b05e163615d" version="1">Prepared Prey</content>
+  <content contentuid="h8b4b0acbgbe2ag5ba3ga7aege8b69550efb5" version="1">Ready for your Blown Kiss until the end of your next turn. Each target has one preparation; a new successful preparation replaces the previous owner.</content>
+  <content contentuid="h3088b93fg4d04g5c85gabceg52249c3be577" version="1">Blown Kiss: Drain</content>
+  <content contentuid="ha558d830g5665g50b7gbb55g8698777592a1" version="1">Consume your preparation on an enemy in this combat. Deal 2d6 + your Charisma modifier Psychic damage. Heal by your positive Charisma modifier only if damage was dealt. Costs 6 Discipline. One kiss on your own turn, shared with other kisses. A bonus action from Temptress level 6.</content>
+  <content contentuid="h9ee3d2c2ge80fg544aga355gc4b4413f1b74" version="1">Blown Kiss: Extract</content>
+  <content contentuid="h8b970616gfb24g5f64gb49fg0d6da711ca98" version="1">Extract an enemy in Climax. An allowed ordinary enemy dies; restore 2d6 + your Charisma modifier hit points and 15 Discipline. Protected or unclassified targets instead lose Climax and Desire and take 3d6 + your spellcasting modifier Psychic damage, without extraction rewards. Costs 0 Discipline. One kiss on your own turn. A bonus action from Temptress level 6.</content>
+  <content contentuid="h7ee9f933gb229g511ega459gff29cd0fcfdd" version="1">Fiend Claw: Necrotic</content>
+  <content contentuid="h8a726379g40f4g5403g937dgbe492da56a8e" version="1">Fiend Claw: Slashing</content>
+</contentList>

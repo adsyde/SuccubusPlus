@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Passive_SuccGift_Mask,Passive_SuccGift_Charm,Passive_SuccGift_Step,Passive_SuccGift_Beast,Passive_SuccGift_Lies,Passive_SuccGift_Temptation,Passive_SuccGift_Feast,Passive_SuccGift_LuringWhisper,Passive_SuccGift_RendingClaws,Passive_SuccGift_GreedyKiss,Passive_SuccGift_LingeringTouch,Passive_SuccGift_LingeringKiss,Passive_SuccGift_DoubleStamp" />
+          <attribute id="UUID" type="guid" value="1d7137c5-703e-5bed-b4ff-b131d7a3cb30" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Succubus_level_1" />
+          <attribute id="Spells" type="LSString" value="Succubus_Desire_Touch" />
+          <attribute id="UUID" type="guid" value="4c2c4c27-f088-487c-9d06-b87d7d814cea" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Spider_level_1" />
+          <attribute id="Spells" type="LSString" value="Succubus_Bane_Mark" />
+          <attribute id="UUID" type="guid" value="9030b868-33e3-4d58-82ea-e12b663500c9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Succubus_level_2" />
+          <attribute id="Spells" type="LSString" value="Succubus_TakingHeart" />
+          <attribute id="UUID" type="guid" value="d201460f-68e0-4b7a-b588-49c20bb8d4da" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Spider_level_2" />
+          <attribute id="Spells" type="LSString" value="Succubus_SpiderKiss" />
+          <attribute id="UUID" type="guid" value="304c1402-55af-4d0c-b26d-8215bd14dbd9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Succubus_level_3" />
+          <attribute id="Spells" type="LSString" value="Succubus_Nightmare_Maltreat;Succubus_Tattoo_Container" />
+          <attribute id="UUID" type="guid" value="a1e15613-2c1d-4b23-8eec-e166aef015be" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Spider_level_3" />
+          <attribute id="Spells" type="LSString" value="Projectile_SpiderQueen_Mind_Link;SpiderQueen_Tattoo_Container" />
+          <attribute id="UUID" type="guid" value="78dac7d5-1eac-4796-95d2-1aadf9bfdd01" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Succubus_level_4" />
+          <attribute id="Spells" type="LSString" value="Succubus_Desire_Fire" />
+          <attribute id="UUID" type="guid" value="918fa108-cbcd-42dd-b128-34f44488102d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Spider_level_4" />
+          <attribute id="Spells" type="LSString" value="Succubuss_UpRise_Night" />
+          <attribute id="UUID" type="guid" value="817ada97-95e8-4c67-8487-e315a6c101fc" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Succubus_level_5" />
+          <attribute id="Spells" type="LSString" value="Succubuss_Death_Dance" />
+          <attribute id="UUID" type="guid" value="1f25e0d0-7c28-4d0c-b961-4a987b78bf5f" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Spider_level_5" />
+          <attribute id="Spells" type="LSString" value="Succubuss_Link_Enpower" />
+          <attribute id="UUID" type="guid" value="01449ffa-6bb1-4981-abc6-b3484cb6c247" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Succubus_level_8" />
+          <attribute id="Spells" type="LSString" value="Succubus_Endless_Desire;Succubus_Hate_Love;Succubus_Rise_Tattoo" />
+          <attribute id="UUID" type="guid" value="efddfe58-c211-461e-9dbf-10509ac5f8bc" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Spider_level_8" />
+          <attribute id="Spells" type="LSString" value="Succubus_LostHeart_Touch;SpiderQueend_Dominate;Succubus_Neurotoxin" />
+          <attribute id="UUID" type="guid" value="c351cbeb-68dd-49c5-a2dc-d55388b48b64" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus Nightmare 17" />
+          <attribute id="Spells" type="LSString" value="Succubuss_Death_Dance_Encore" />
+          <attribute id="UUID" type="guid" value="439dc90a-5f99-4e44-a052-6ba78e64eb5f" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus Nightmare 18" />
+          <attribute id="Spells" type="LSString" value="Succubuss_Death_Dance_Encore2" />
+          <attribute id="UUID" type="guid" value="d3adbbe6-2ff7-591d-83ce-1dff1d375342" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_Succubus_TemptingWhisper;Target_Succubus_FiendClaw;Target_Friends;Target_ViciousMockery;Target_MinorIllusion;Target_TollTheDead;Target_ChillTouch" />
+          <attribute id="UUID" type="guid" value="00884d36-fe04-57a5-b102-88c232b3b84d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus spells up to 1" />
+          <attribute id="Spells" type="LSString" value="SuccSpell_DissonantWhispers;SuccSpell_HideousLaughter;SuccSpell_Sleep;SuccSpell_FalseLife;SuccSpell_InflictWounds;SuccSpell_Bane;SuccSpell_Hex;SuccSpell_Command_Container" />
+          <attribute id="UUID" type="guid" value="28fb1f73-a49f-5278-9fae-2c4870cb6fb9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus spells up to 2" />
+          <attribute id="Spells" type="LSString" value="SuccSpell_DissonantWhispers;SuccSpell_HideousLaughter;SuccSpell_Sleep;SuccSpell_FalseLife;SuccSpell_InflictWounds;SuccSpell_Bane;SuccSpell_Hex;SuccSpell_Command_Container;SuccSpell_HoldPerson;SuccSpell_CrownOfMadness;SuccSpell_Enthrall;SuccSpell_Invisibility;SuccSpell_MirrorImage;SuccSpell_Darkness;SuccSpell_PhantasmalForce;SuccSpell_Blindness;SuccSpell_DetectThoughts" />
+          <attribute id="UUID" type="guid" value="e3a93f57-6fb2-5edc-858c-d946b4fed0b9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus spells up to 3" />
+          <attribute id="Spells" type="LSString" value="SuccSpell_DissonantWhispers;SuccSpell_HideousLaughter;SuccSpell_Sleep;SuccSpell_FalseLife;SuccSpell_InflictWounds;SuccSpell_Bane;SuccSpell_Hex;SuccSpell_Command_Container;SuccSpell_HoldPerson;SuccSpell_CrownOfMadness;SuccSpell_Enthrall;SuccSpell_Invisibility;SuccSpell_MirrorImage;SuccSpell_Darkness;SuccSpell_PhantasmalForce;SuccSpell_Blindness;SuccSpell_DetectThoughts;SuccSpell_VampiricTouch;SuccSpell_Fear;SuccSpell_HypnoticPattern;SuccSpell_Blink;SuccSpell_BestowCurse" />
+          <attribute id="UUID" type="guid" value="6a1abc63-4a39-548d-8db4-9a7a933ef45b" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus spells up to 4" />
+          <attribute id="Spells" type="LSString" value="SuccSpell_DissonantWhispers;SuccSpell_HideousLaughter;SuccSpell_Sleep;SuccSpell_FalseLife;SuccSpell_InflictWounds;SuccSpell_Bane;SuccSpell_Hex;SuccSpell_Command_Container;SuccSpell_HoldPerson;SuccSpell_CrownOfMadness;SuccSpell_Enthrall;SuccSpell_Invisibility;SuccSpell_MirrorImage;SuccSpell_Darkness;SuccSpell_PhantasmalForce;SuccSpell_Blindness;SuccSpell_DetectThoughts;SuccSpell_VampiricTouch;SuccSpell_Fear;SuccSpell_HypnoticPattern;SuccSpell_Blink;SuccSpell_BestowCurse;SuccSpell_Confusion;SuccSpell_Invisibility_Greater;SuccSpell_PhantasmalKiller;SuccSpell_DominateBeast;SuccSpell_Blight;SuccSpell_DimensionDoor" />
+          <attribute id="UUID" type="guid" value="fb29065d-cfed-571d-add8-61e9a9aa9ca9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus spells up to 5" />
+          <attribute id="Spells" type="LSString" value="SuccSpell_DissonantWhispers;SuccSpell_HideousLaughter;SuccSpell_Sleep;SuccSpell_FalseLife;SuccSpell_InflictWounds;SuccSpell_Bane;SuccSpell_Hex;SuccSpell_Command_Container;SuccSpell_HoldPerson;SuccSpell_CrownOfMadness;SuccSpell_Enthrall;SuccSpell_Invisibility;SuccSpell_MirrorImage;SuccSpell_Darkness;SuccSpell_PhantasmalForce;SuccSpell_Blindness;SuccSpell_DetectThoughts;SuccSpell_VampiricTouch;SuccSpell_Fear;SuccSpell_HypnoticPattern;SuccSpell_Blink;SuccSpell_BestowCurse;SuccSpell_Confusion;SuccSpell_Invisibility_Greater;SuccSpell_PhantasmalKiller;SuccSpell_DominateBeast;SuccSpell_Blight;SuccSpell_DimensionDoor;SuccSpell_DominatePerson;SuccSpell_Seeming;SuccSpell_HoldMonster" />
+          <attribute id="UUID" type="guid" value="7c218ae1-3467-5281-8c74-0f291050b1e2" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus spells up to 6" />
+          <attribute id="Spells" type="LSString" value="SuccSpell_DissonantWhispers;SuccSpell_HideousLaughter;SuccSpell_Sleep;SuccSpell_FalseLife;SuccSpell_InflictWounds;SuccSpell_Bane;SuccSpell_Hex;SuccSpell_Command_Container;SuccSpell_HoldPerson;SuccSpell_CrownOfMadness;SuccSpell_Enthrall;SuccSpell_Invisibility;SuccSpell_MirrorImage;SuccSpell_Darkness;SuccSpell_PhantasmalForce;SuccSpell_Blindness;SuccSpell_DetectThoughts;SuccSpell_VampiricTouch;SuccSpell_Fear;SuccSpell_HypnoticPattern;SuccSpell_Blink;SuccSpell_BestowCurse;SuccSpell_Confusion;SuccSpell_Invisibility_Greater;SuccSpell_PhantasmalKiller;SuccSpell_DominateBeast;SuccSpell_Blight;SuccSpell_DimensionDoor;SuccSpell_DominatePerson;SuccSpell_Seeming;SuccSpell_HoldMonster;SuccSpell_Eyebite;SuccSpell_Harm" />
+          <attribute id="UUID" type="guid" value="cd194c06-6fa0-53d0-8b4e-d8fe2215bd6a" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus Temptress 8" />
+          <attribute id="Spells" type="LSString" value="Target_Succubus_TM_Crown;Shout_Succubus_TM_Blur;Target_Succubus_TM_Pattern" />
+          <attribute id="UUID" type="guid" value="66dbcd15-efb3-5f5b-8ae8-c577f054dcf6" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus Temptress 1" />
+          <attribute id="Spells" type="LSString" value="Target_Succubus_LanguidGaze" />
+          <attribute id="UUID" type="guid" value="991c2bda-ba46-5423-8578-1b3b2772aaab" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus Temptress 2" />
+          <attribute id="Spells" type="LSString" value="Target_Succubus_AirKiss" />
+          <attribute id="UUID" type="guid" value="9d8942d7-0bbd-5ec9-85d7-08e195fa3246" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus Temptress 4" />
+          <attribute id="Spells" type="LSString" value="Shout_Succubus_MirrorDance" />
+          <attribute id="UUID" type="guid" value="b1dbe28a-b02b-5ff9-b453-8a71a313b134" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="SuccubusPlus Temptress 18" />
+          <attribute id="Spells" type="LSString" value="Target_Succubus_TM_GreaterInvisibility" />
+          <attribute id="UUID" type="guid" value="01358792-2630-55cd-8f6b-1d5fe6170832" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

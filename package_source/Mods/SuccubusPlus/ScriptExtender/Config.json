@@ -1,0 +1,7 @@
+{
+    "RequiredVersion": 29,
+    "ModTable": "SuccubusPlus",
+    "FeatureFlags": [
+        "Lua"
+    ]
+}

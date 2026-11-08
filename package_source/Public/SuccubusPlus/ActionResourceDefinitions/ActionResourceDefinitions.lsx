@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+          <attribute id="Description" type="TranslatedString" handle="hee219fd7g9cd5g4686gbeb9g826bfa1f0da8" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h05853afbg9750g4bd6g93f0g4e0fc7e63031" version="1" />
+          <attribute id="MaxLevel" type="uint32" value="0" />
+          <attribute id="Name" type="FixedString" value="Reason" />
+          <attribute id="ReplenishType" type="FixedString" value="Rest" />
+          <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+          <attribute id="UUID" type="guid" value="67305c25-2319-4566-a7cf-015d1b2abf69" />
+        </node>
+        <node id="ActionResourceDefinition">
+          <attribute id="Description" type="TranslatedString" handle="h861dd9dfgadb1g5ef3g8975g8842e3fe88e2" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hab1b04d4ga8a1g5caega5cbge16441bbe12c" version="1" />
+          <attribute id="MaxLevel" type="uint32" value="0" />
+          <attribute id="Name" type="FixedString" value="SuccubusCharm" />
+          <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
+          <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+          <attribute id="UUID" type="guid" value="16deba08-ec12-5178-934f-8116c6ee0493" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

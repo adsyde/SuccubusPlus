@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="312" />
+  <region id="ActionResourceGroupDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceGroupDefinition">
+          <attribute id="ActionResourceDefinitions" type="LSString" value="67305c25-2319-4566-a7cf-015d1b2abf69" />
+          <attribute id="Name" type="LSString" value="ReasonGroup" />
+          <attribute id="UUID" type="guid" value="0d7a5a59-860d-4010-8d5e-2391cb789c67" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

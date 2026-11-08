@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="307" />
+  <region id="DifficultyClasses">
+    <node id="root">
+      <children>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="2" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_02" />
+          <attribute id="UUID" type="guid" value="320130ca-0637-5d6e-8471-f3e612c4ca2d" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="3" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_03" />
+          <attribute id="UUID" type="guid" value="ffd9cffe-14cf-58e2-b717-9d51fbf32c5e" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="4" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_04" />
+          <attribute id="UUID" type="guid" value="084bc7e4-da8d-5f82-b98a-2f9c2912bda0" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="5" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_05" />
+          <attribute id="UUID" type="guid" value="2111a65c-ee7c-53f5-ac26-6d50bbd5706f" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="6" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_06" />
+          <attribute id="UUID" type="guid" value="d3bb9956-bc16-5f57-b23f-368353ecab6b" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="7" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_07" />
+          <attribute id="UUID" type="guid" value="9cf732aa-4d69-5721-8107-8856e0c41980" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="8" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_08" />
+          <attribute id="UUID" type="guid" value="9f11de71-4de7-5339-89cf-3f52e80f7f41" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="9" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_09" />
+          <attribute id="UUID" type="guid" value="2eeb6110-de6d-5b11-af32-ab411c595cf0" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="10" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_10" />
+          <attribute id="UUID" type="guid" value="0c210fef-14cb-54b6-bbbb-1acb93f221c6" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="11" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_11" />
+          <attribute id="UUID" type="guid" value="44d6662b-eb13-5acd-bc1d-41751c696cea" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="12" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_12" />
+          <attribute id="UUID" type="guid" value="d89e33f1-86d2-5a39-ba0f-47a05ca07bf4" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="13" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_13" />
+          <attribute id="UUID" type="guid" value="cee5806d-cc86-5746-9f99-8f7d0ae1452a" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="14" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_14" />
+          <attribute id="UUID" type="guid" value="3b7e177b-7de4-5867-8618-89ae5d053cce" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="15" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_15" />
+          <attribute id="UUID" type="guid" value="826591f4-11b9-5218-8c8b-b3be4929abe4" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="16" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_16" />
+          <attribute id="UUID" type="guid" value="3bc02055-3eff-5c8b-bea6-cc99b94f3027" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="17" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_17" />
+          <attribute id="UUID" type="guid" value="d5371cdc-a666-56b0-aba2-da3bb509b131" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="18" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_18" />
+          <attribute id="UUID" type="guid" value="b7333371-6773-59d2-a588-dbad8a5dd9ac" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="19" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_19" />
+          <attribute id="UUID" type="guid" value="ca20f49a-70e8-5bd3-9f10-6e0ca6593d6c" />
+        </node>
+        <node id="DifficultyClass">
+          <attribute id="Difficulties" type="LSString" value="20" />
+          <attribute id="Name" type="LSString" value="SUCC_DC_20" />
+          <attribute id="UUID" type="guid" value="8e673432-4388-5cbb-a091-f17c53b91734" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

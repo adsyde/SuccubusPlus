@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="319" />
+  <region id="DefaultValues">
+    <node id="root">
+      <children>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Charisma;Constitution" />
+          <attribute id="Level" type="int32" value="1" />
+          <attribute id="SelectorId" type="LSString" value="AbilityBonus" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="c2b2c13e-36b7-4bf1-888d-e297a79e863e" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

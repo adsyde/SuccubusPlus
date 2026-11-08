@@ -1,0 +1,37 @@
+-- Условия класса; имена являются частью интерфейса игровых характеристик.
+function EnemyMaxDesire(target)
+    target = target or context.Target
+    local desire = GetStatusDuration('Succubus_Enemy_Desire_Counter', target)
+    local current_hp = GetStatusDuration('Succubus_Enemy_CurrentHP', target)
+    return ConditionResult(desire > current_hp)
+end
+
+function SuccubusCr(target)
+    local roll = math.random(1, 100)
+    target = target or context.Target
+    local stacks = GetStatusDuration('Boost_Succubus_Desire_Fire_Counter', target)
+    return ConditionResult(roll < 10 + stacks / 5)
+end
+
+function Succubus_RateOfCustom(threshold)
+    return ConditionResult(math.random(1, 100) < threshold)
+end
+
+function Succubus_RateOfRandomTattoo(threshold)
+    return ConditionResult(math.random(1, 100) < threshold)
+end
+
+function SeekHeart_Die(target)
+    target = target or context.Target
+    local duration = GetStatusDuration('SeekHeart_Timer', target)
+    return ConditionResult(duration >= 2)
+end
+
+function IsSmite_Divine()
+    return SpellId('Target_Smite_Divine') | SpellId('Target_Smite_Divine_2') |
+           SpellId('Target_Smite_Divine_3') | SpellId('Target_Smite_Divine_4') |
+           SpellId('Target_Smite_Divine_5') | SpellId('Target_Smite_Divine_6') |
+           SpellId('Target_Smite_Wrathful') | SpellId('Target_Smite_Wrathful_2') |
+           SpellId('Target_Smite_Wrathful_3') | SpellId('Target_Smite_Wrathful_4') |
+           SpellId('Target_Smite_Wrathful_5') | SpellId('Target_Smite_Wrathful_6')
+end

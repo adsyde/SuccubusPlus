@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,60,0);ProficiencyBonus(SavingThrow,Charisma);Proficiency(Daggers);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Flails);ActionResource(SuccubusCharm,2,0);UnlockSpell(Shout_Succubus_SateHunger)" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Reason;Succubus_Reason_Combat;Succubus_Desire;Succubus_Passive_Perfect_Arc;Passive_Succubus_Socialize;Passive_Succubus_RestComposure" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSkills(c884a821-edea-44dc-b023-2198d5363a32,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSpells(00884d36-fe04-57a5-b102-88c232b3b84d,2,0,SuccubusCantrips,,,AlwaysPrepared);SelectSpells(28fb1f73-a49f-5278-9fae-2c4870cb6fb9,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="56137662-5b09-4acb-a989-374009c544f1" />
+          <children>
+            <node id="SubClasses">
+              <children>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="f44c24fc-8040-40de-9956-15965044cf48" />
+                </node>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="fc86041e-fa9b-4739-8ade-48d73daf7b8a" />
+                </node>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="114225df-5ffd-5f7b-8cda-5898d8b63834" />
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="IsMulticlass" type="bool" value="true" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,60,0);Proficiency(Daggers);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Flails);ActionResource(SuccubusCharm,2,0);UnlockSpell(Shout_Succubus_SateHunger)" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Reason;Succubus_Reason_Combat;Succubus_Desire;Succubus_Passive_Perfect_Arc;Passive_Succubus_Socialize;Passive_Succubus_RestComposure" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(00884d36-fe04-57a5-b102-88c232b3b84d,2,0,SuccubusCantrips,,,AlwaysPrepared);SelectSpells(28fb1f73-a49f-5278-9fae-2c4870cb6fb9,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="8b68ae0f-3f21-4888-84fb-941c850cfd80" />
+          <children>
+            <node id="SubClasses">
+              <children>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="f44c24fc-8040-40de-9956-15965044cf48" />
+                </node>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="fc86041e-fa9b-4739-8ade-48d73daf7b8a" />
+                </node>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="114225df-5ffd-5f7b-8cda-5898d8b63834" />
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="47ddf15f-5552-4df2-a059-48a11d47c55a" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Siphon" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="0d4bcf7b-f0d4-4761-8ce3-a5556605f257" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_FiendNature_I" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(e3a93f57-6fb2-5edc-858c-d946b4fed0b9,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Level" type="uint8" value="4" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="f58e1544-c6f8-4ae2-8a0d-2852a21ff447" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(00884d36-fe04-57a5-b102-88c232b3b84d,1,0,SuccubusCantrips,,,AlwaysPrepared)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="55644f7b-a7c5-45b3-8ebb-c0289bc3281e" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;Passive_Succubus_TailBalance" />
+          <attribute id="Boosts" type="LSString" value="UnlockSpell(Target_Succubus_DrainingKiss);ActionResource(SuccubusCharm,1,0);ActionResource(Reason,8,0)" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts);SelectSpells(6a1abc63-4a39-548d-8db4-9a7a933ef45b,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Passive_Perfect_Arc_II" />
+          <attribute id="PassivesRemoved" type="LSString" value="Succubus_Passive_Perfect_Arc" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="1c42bee1-35eb-4086-bb41-9b63c469b3b9" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="73a369b2-f668-49f2-8a3a-8bea9cad00d6" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_OnTheEdge" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(fb29065d-cfed-571d-add8-61e9a9aa9ca9,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Level" type="uint8" value="8" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="d3a735ae-ea05-40cb-bab1-379aa20fa138" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Wings;Passive_Succubus_WingBuffet_Big;Passive_Succubus_WingBuffet_Small" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="4f89b4bd-c23e-424f-bd9c-3225bde75414" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts);SelectSpells(7c218ae1-3467-5281-8c74-0f291050b1e2,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Passive_Perfect_Arc_III" />
+          <attribute id="PassivesRemoved" type="LSString" value="Succubus_Passive_Perfect_Arc_II" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="70bec94c-aac9-4467-aa62-17461d9e2c3c" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(00884d36-fe04-57a5-b102-88c232b3b84d,1,0,SuccubusCantrips,,,AlwaysPrepared)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="11" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="64622a58-269e-4b5d-bb12-0e120ee83f95" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_PassionEcho" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(SuccubusCharm,1,0);ActionResource(Reason,8,0)" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts);SelectSpells(cd194c06-6fa0-53d0-8b4e-d8fe2215bd6a,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Level" type="uint8" value="12" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="7e670bd2-6c87-4c5e-a0c2-4a8fb440e9d9" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="13" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="39d2cbf5-be72-4670-8f61-4e1b09f87826" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_FiendNature_II" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(4c2c4c27-f088-487c-9d06-b87d7d814cea,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="454afff0-dec1-4d16-b0a3-de0454cbd10d" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Breath" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(d201460f-68e0-4b7a-b588-49c20bb8d4da,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="5b1d96c5-cf56-4009-8668-4cd3a2d3df7c" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Maltreat_Self;Passive_Succubus_Desire_Fire_Self;Passive_Tattoo_LevelUp_By_Killing;Passive_Tattoo_Counter_DamageConvert;Passive_Succubus_NM_SweetPain" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(a1e15613-2c1d-4b23-8eec-e166aef015be,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="8d2ab7c3-fe4a-4ade-8aa5-52dec1cda748" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="4" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(1f25e0d0-7c28-4d0c-b961-4a987b78bf5f,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="fefe4baf-d9cd-4742-b749-e499d87e8917" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(918fa108-cbcd-42dd-b128-34f44488102d,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="81ca98b8-9b10-4d65-aff0-3336cb2f9b22" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="b81896a4-ee28-405c-922e-a91d69055183" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_NM_Rapture" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Fast_Tattoo" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="89cf7907-b732-4ba7-a366-d9fc2f07f9a1" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="8" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Hate_Love_Self" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(efddfe58-c211-461e-9dbf-10509ac5f8bc,1,0,SuccubusNightmareChoices,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="65744c96-ee21-4758-8157-8d4a4003e6c1" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="793a8ac8-d009-45ea-9e1e-336f71abed92" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="62374beb-2e23-43a0-97bf-556d65232be7" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_NM_LanguidAura" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="11" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Random_Tattoo" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="7b1a8efb-b483-4f49-b15f-e03ac53aaeb4" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="12" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit_II" />
+          <attribute id="PassivesRemoved" type="LSString" value="Passive_Succubus_Reason_Limit" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="4cd9bb2e-3843-4792-b229-96c1e0fc2a26" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="13" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="a002060d-79e5-405c-87a1-eed827832450" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_NM_Hunger" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(9030b868-33e3-4d58-82ea-e12b663500c9,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="f6a1523d-38ba-4f63-9cd0-0d0bd47b769a" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Mind_Storm" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(304c1402-55af-4d0c-b26d-8215bd14dbd9,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="ac4a092f-e005-4158-abac-06ba1e9e8861" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(78dac7d5-1eac-4796-95d2-1aadf9bfdd01,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="61e6981e-bcfd-4e7b-a7fb-d7d25aa9f3f6" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="4" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(01449ffa-6bb1-4981-abc6-b3484cb6c247,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="20f266f0-e5dc-4a9f-a4bb-99564cec0fb0" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(817ada97-95e8-4c67-8487-e315a6c101fc,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="e52917f1-2f1e-4ac6-99a3-993e677f7900" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="37f7e73f-807e-4c03-9866-fe6310f583bc" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_SQ_TearBrand" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Endless_Bane" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="bee3bc37-5180-4dc4-9a1a-015ab25ea25c" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="8" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(c351cbeb-68dd-49c5-a2dc-d55388b48b64,1,0,SuccubusSpiderChoices,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="6896630e-b58f-4ccc-82ba-308896b14d33" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="68387449-e617-48f5-9e6d-af60df40d6ae" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="466d1e29-91bc-47d3-ba5f-dbd7e1aae570" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_SQ_ThreadMend" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="11" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Succubus_Mesmerizing" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="f96106eb-3f90-4d00-ab43-f96ba993c22d" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="12" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit_II" />
+          <attribute id="PassivesRemoved" type="LSString" value="Passive_Succubus_Reason_Limit" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="899ea368-5ac7-42c1-b333-4a2f97034a27" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="13" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="5878135f-3449-46b0-8440-36080b38d9a4" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_SQ_Web" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="4f827aed-b777-5e07-a669-deb0336875c0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(cd194c06-6fa0-53d0-8b4e-d8fe2215bd6a,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit_III" />
+          <attribute id="PassivesRemoved" type="LSString" value="Passive_Succubus_Reason_Limit_II" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="ba3a20f0-8d2a-57f5-958d-9d427e901df7" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit_III" />
+          <attribute id="PassivesRemoved" type="LSString" value="Passive_Succubus_Reason_Limit_II" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="b8dcc310-e0b9-56af-8caa-6164711adc47" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="15" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="28533095-036b-5803-a1b1-844157a3a148" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="15" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="a2f84d46-7d27-5717-85b1-fd1f9b551d90" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_NM_Waking" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="15" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="2c217659-69f2-5505-b3fd-5a00093be85a" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_SQ_Strong" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="16" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="3d571e4e-61e5-51bb-b035-894f7b2e3832" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="16" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="54f3f7c1-d7d9-5723-9198-b1d2914323ef" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="16" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="82be2827-9c63-5978-b93a-e5e3da937ac7" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="17" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="f96528d4-b1e5-5417-9fa7-6635edf1550b" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(SuccubusCharm,1,0);ActionResource(Reason,8,0)" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts);SelectSpells(cd194c06-6fa0-53d0-8b4e-d8fe2215bd6a,1,0,SuccubusWiles,,,AlwaysPrepared)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="17" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(439dc90a-5f99-4e44-a052-6ba78e64eb5f,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="6b274bdc-6690-5837-a234-26ca973a81e1" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="17" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="308f6cce-07f6-5bdb-9223-462a9ef29217" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_SQ_Swift" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="18" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="4557db05-9de3-56ab-be26-ec6a6e8da902" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_FiendNature_III" />
+          <attribute id="Selectors" type="LSString" value="SelectPassives(1d7137c5-703e-5bed-b4ff-b131d7a3cb30,1,SuccubusGifts)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="18" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="a89a9ed6-b1ec-5778-8cec-6f5c0aabd354" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(d3adbbe6-2ff7-591d-83ce-1dff1d375342,,,,AlwaysPrepared)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="18" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="13ba0801-4246-550c-a5c4-48a2d2746f16" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_SQ_Venom" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="19" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="c3b781f6-2cc7-5542-b2da-541b753c3996" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="19" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="2bd40a88-ebe0-58d3-99d4-2ea800203de1" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="19" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="78f3aa8a-c562-5520-bb68-f726a5c0e3e9" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="20" />
+          <attribute id="Name" type="LSString" value="Succubus" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Insatiable" />
+          <attribute id="TableUUID" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="403349f1-6c60-5bb9-ae7f-a27cfc9fdfdf" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(Reason,8,0)" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="20" />
+          <attribute id="Name" type="LSString" value="Nightmare" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="e538606a-a763-5e8e-af36-7ecf28249b67" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_NM_Dread" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="20" />
+          <attribute id="Name" type="LSString" value="SpiderQueen" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="047715d7-fd3a-5407-b41f-e12ca4ef1f34" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_SQ_Queen" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(991c2bda-ba46-5423-8578-1b3b2772aaab,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="3f13b142-4ccc-5a9b-9d2c-ccbb34bf2974" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(9d8942d7-0bbd-5ec9-85d7-08e195fa3246,,,,AlwaysPrepared)" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Haze" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="0078cfcb-da23-5233-b3ad-77b75054b3dc" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_ShadowStrike" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="013300c7-d31e-5ac8-a323-1a122e9825de" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="4" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(b1dbe28a-b02b-5ff9-b453-8a71a313b134,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="e34db362-2127-5ede-952f-f4d8a1a3237e" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Trail" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="13c3f55e-ae09-5f39-b7a9-83c094beec33" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_OtherFace" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="92c9ebae-289c-5875-bbd2-4192ab92aa11" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Chain" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="3bd2df23-b025-567a-bc6f-8010200fa930" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="8" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(66dbcd15-efb3-5f5b-8ae8-c577f054dcf6,1,0,TemptressTricks,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="a96c1499-9ea4-54ff-ba18-0330c232acf0" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="75f6f1c6-f8f9-5d79-b04a-5ed0a405bd88" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Victim" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="e78cd983-bb10-52af-97fd-2ec7642fa2bf" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="11" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_DoubleGaze" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="5a2217ad-e022-573d-a122-1ece375170e9" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="12" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit_II" />
+          <attribute id="PassivesRemoved" type="LSString" value="Passive_Succubus_Reason_Limit" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="71c57dfc-a4f1-5a54-a0db-eef4993b7a65" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="13" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Elusive" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="8c569687-4ada-514b-aa90-183efee65871" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_Reason_Limit_III" />
+          <attribute id="PassivesRemoved" type="LSString" value="Passive_Succubus_Reason_Limit_II" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="739592ec-a881-5e56-922c-597f390bc465" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="15" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Thousand" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="6f9d93a5-ea4d-57b8-971f-d4a5b8438007" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="16" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="cc63bc88-3d31-5eb3-93e8-ee5713f5140b" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="17" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Deceiver" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="52c98586-32ee-5ce9-87f3-9167be6ae048" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="18" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="AddSpells(01358792-2630-55cd-8f6b-1d5fe6170832,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="c2e4c663-398e-5526-b931-59e34ed41403" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="19" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="25f774e9-280b-571d-bf9c-4aaa60b6492a" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="20" />
+          <attribute id="Name" type="LSString" value="Temptress" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="PassivesAdded" type="LSString" value="Passive_Succubus_TM_Queen" />
+          <attribute id="TableUUID" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="UUID" type="guid" value="25d12a59-a0d2-504b-b54a-0e789a91ae52" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

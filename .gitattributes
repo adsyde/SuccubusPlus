@@ -1,0 +1,2 @@
+# Resource bytes must remain unchanged across platforms and Git checkouts.
+* -text

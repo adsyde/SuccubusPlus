@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hd63ef83dg7384g4a21g9d6bgf174dcacd3f5" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hb9b1e81cg1f8cg461bg814bg13202304c2aa" version="1" />
+          <attribute id="ExactMatch" type="FixedString" value="Succubus" />
+          <attribute id="ProgressionTableId" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="UUID" type="guid" value="08173fd2-13c8-4020-83a8-21fc4cfd4c93" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hbbb51453gb30bg435ega8caga77cb1f92bba" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h0cf5dd9cg6442g4f85g8429g8ca18c6bda4b" version="1" />
+          <attribute id="ExactMatch" type="FixedString" value="Nightmare" />
+          <attribute id="ProgressionTableId" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="UUID" type="guid" value="be4e4f5c-da9c-45b1-a81f-f9aaf9e09756" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h23070136g31b0g4c39gabdfg30a9baf81450" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h18eff818gf583g4237gb936ge44cc1030783" version="1" />
+          <attribute id="ExactMatch" type="FixedString" value="SpiderQueen" />
+          <attribute id="ProgressionTableId" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="UUID" type="guid" value="aa639637-ce6b-4a46-a249-e39e9a783896" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hf28f7fc5g91afg502aga5efg2ce6d0cf37ff" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h1c268e85g8eaeg5958g855ag81185d2082ad" version="1" />
+          <attribute id="ProgressionTableId" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="SelectorId" type="FixedString" value="SuccubusCantrips" />
+          <attribute id="UUID" type="guid" value="73d818ca-36c0-5793-b653-5944273e8e63" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h88bb2113gcb8fg5977ga101g61845a1719fb" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hba1be942gb039g59e8gbc97g56c38c164c4f" version="1" />
+          <attribute id="ProgressionTableId" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="SelectorId" type="FixedString" value="SuccubusGifts" />
+          <attribute id="UUID" type="guid" value="40600cc0-6156-5001-8c5f-8002c7ae2275" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hb9014d47gc71eg58cdg9cb8g169e99e36508" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hbacff0e9g3180g55fcgabbcg219cd2987d88" version="1" />
+          <attribute id="ProgressionTableId" type="guid" value="e69aa376-5c0c-4af3-97a7-57d39175d7d8" />
+          <attribute id="SelectorId" type="FixedString" value="SuccubusNightmareChoices" />
+          <attribute id="UUID" type="guid" value="0e48ce71-3cd1-5df8-8316-b088bc98c90a" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hb5716889g498fg5c6cg9714g29a3278c5d78" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h6d30088bg08a8g5d52g8b17ga81499dcc3c6" version="1" />
+          <attribute id="ProgressionTableId" type="guid" value="3f0b7fc9-37e1-4e68-8eb8-522d55fa0f3f" />
+          <attribute id="SelectorId" type="FixedString" value="SuccubusSpiderChoices" />
+          <attribute id="UUID" type="guid" value="5f38343c-fbe0-5694-9b06-aab09be6301f" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h98b93c50gc1afg5ad0gb47dgd624b2a6596c" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h5dac01dbg15fag51b5g9349g5e5b19746396" version="1" />
+          <attribute id="ProgressionTableId" type="guid" value="3d66efe9-6a6f-4e9a-9eef-37cb106e3298" />
+          <attribute id="SelectorId" type="FixedString" value="SuccubusWiles" />
+          <attribute id="UUID" type="guid" value="33824d50-428b-5da4-b1ca-4290f425284d" />
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="ha4318fc6gf406g520bgac9dg0adefd980776" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="ha2609a24gbf71g5ba4ga755g51443c6ad7cd" version="1" />
+          <attribute id="ProgressionTableId" type="guid" value="6771fc91-b537-5115-9b30-81a10921ccda" />
+          <attribute id="SelectorId" type="FixedString" value="TemptressTricks" />
+          <attribute id="UUID" type="guid" value="8c073840-aa21-52ea-aa5a-b964a8dccedb" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
